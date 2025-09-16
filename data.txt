@@ -1,0 +1,1703 @@
+Logo
+Den svenska frekvensplanen
+Välkommen till Post och telestyrelsens (PTS) e-tjänst. Här kan du söka på frekvensband eller användningområde för att få information om den huvudsakliga användningen
+
+MHz från
+MHz till
+Användningsområde
+
+-- Välj användningsområde --
+Antal träffar: 732
+MHz från
+MHz till
+Användningsområde
+Dublexband
+Anmärkning
+0	0,009	Övrigt		
+0,009	0,014	Radionavigering för luftfart		
+0,009	0,014	Radionavigering för sjöfart		
+0,009	0,1485	Induktiva tillämpningar		
+Undantag från tillståndsplikt
+Not 1
+0,009	0,148	Radiobestämning		
+Undantag från tillståndsplikt
+Not 1
+0,009	0,315	Aktiva medicinska implantat		
+Undantag från tillståndsplikt
+Not 1
+0,014	0,01995	Fast radio		
+0,014	0,01995	Sjöfartsradio		
+0,01995	0,02005	Standardfrekvens och tidssignal		
+0,02005	0,07	Sjöfartsradio		
+0,02005	0,07	Fast radio		
+0,1176	0,126	Sjöfartsradio		
+0,129	0,1485	Sjöfartsradio		
+0,1357	0,1378	Amatörradio		
+Undantag från tillståndsplikt
+0,148	5	Radiobestämning		
+Undantag från tillståndsplikt
+Not 1
+0,1485	0,2835	Rundradio		
+GE75
+0,1485	5	Induktiva tillämpningar		
+Undantag från tillståndsplikt
+Not 1
+0,2835	0,315	Radionavigering för sjöfart		
+GE85N
+0,2835	0,415	Radionavigering för luftfart		
+0,2835	0,415	Radiofyrar för luftfart		
+0,2835	0,315	Radiofyrar för sjöfart		
+GE85N
+0,4	0,6	RFID		
+Undantag från tillståndsplikt
+Not 1
+0,4065	0,4135	Radionavigering för sjöfart		
+0,415	0,435	Radionavigering för luftfart		
+GE85M
+0,415	0,435	Radiofyrar för luftfart		
+GE85M
+0,415	0,495	Sjöfartsradio		
+GE85M
+RR AP15
+Nöd- och säkerhetstrafik
+0,4422	0,45	Allmän kortdistansradio		
+Undantag från tillståndsplikt
+Not 1
+0,4569	0,4571	Lokalisering av nödställda		
+Undantag från tillståndsplikt
+Not 1
+0,495	0,505	Luftfartsradio		
+0,495	0,5265	Sjöfartsradio		
+RR AP15
+Nöd- och säkerhetstrafik
+0,516	8,516	Tillämpningar för järnväg		
+Undantag från tillståndsplikt
+0,51775	0,51825	Sjöfartsradio		
+0,5265	1,6065	Rundradio		
+GE75
+0,984	7,484	Eurobalise		
+Undantag från tillståndsplikt
+Not 1
+1,6065	1,625	Sjöfartsradio		
+GE85M
+1,625	1,635	Radiolokalisering		
+1,635	1,8	Sjöfartsradio		
+GE85M
+1,8	1,81	Radiolokalisering		
+1,81	1,85	Amatörradio		
+Undantag från tillståndsplikt
+1,85	2	Amatörradio		
+Undantag från tillståndsplikt
+1,85	2,045	Sjöfartsradio		
+1,85	2,045	Fast radio		
+1,85	2,045	Landmobil radio		
+2,045	2,16	Sjöfartsradio		
+GE85M
+2,16	2,17	Radiolokalisering		
+2,17	2,1735	Sjöfartsradio		
+2,1735	2,1905	Sjöfartsradio		
+RR AP15
+Nöd- och säkerhetstrafik
+2,1905	2,498	Sjöfartsradio		
+2,194	2,498	Fast radio		
+2,194	2,498	Landmobil radio		
+2,498	2,502	Standardfrekvens och tidssignal		
+2,502	2,85	Sjöfartsradio		
+2,502	2,625	Fast radio		
+2,502	2,625	Landmobil radio		
+2,625	2,65	Radionavigering för sjöfart		
+2,65	2,85	Fast radio		
+2,65	2,85	Landmobil radio		
+2,85	3,025	Luftfartsradio		
+RR AP15
+Nöd- och säkerhetstrafik
+3,0215	3,0245	Sjöfartsradio		
+Nöd- och säkerhetstrafik
+3,025	3,155	Luftfartsradio		
+RR AP26
+3,155	3,4	Sjöfartsradio		
+3,155	3,4	Fast radio		
+3,155	3,4	Landmobil radio		
+3,5	3,9	Landmobil radio		
+3,5	3,9	Fast radio		
+3,5	3,8	Sjöfartsradio		
+3,5	3,8	Amatörradio		
+Undantag från tillståndsplikt
+3,8	3,9	Luftfartsradio		
+3,9	3,95	Luftfartsradio		
+RR AP26
+3,95	4	Rundradio		
+3,95	4,063	Fast radio		
+4	4,063	Sjöfartsradio		
+4,063	4,438	Sjöfartsradio		
+RR AP15
+RR AP17
+RR AP25
+Nöd- och säkerhetstrafik
+4,438	4,65	Sjöfartsradio		
+4,438	4,65	Fast radio		
+4,438	4,65	Landmobil radio		
+4,65	4,7	Luftfartsradio		
+RR AP27
+4,7	4,75	Luftfartsradio		
+RR AP26
+4,75	4,85	Luftfartsradio		
+4,75	4,995	Fast radio		
+4,75	4,995	Landmobil radio		
+4,995	5,005	Standardfrekvens och tidssignal		
+5	27,5	Induktiva tillämpningar		
+Undantag från tillståndsplikt
+Not 1
+5	27,5	Radiobestämning		
+Undantag från tillståndsplikt
+Not 1
+5,005	5,48	Fast radio		
+5,06	5,45	Sjöfartsradio		
+5,06	5,48	Landmobil radio		
+5,3515	5,3665	Amatörradio		
+Undantag från tillståndsplikt
+5,45	5,48	Luftfartsradio		
+5,48	5,68	Luftfartsradio		
+RR AP27
+5,6785	5,6815	Sjöfartsradio		
+RR AP15
+Nöd- och säkerhetstrafik
+5,68	5,73	Luftfartsradio		
+RR AP26
+5,73	5,9	Fast radio		
+5,73	5,9	Landmobil radio		
+5,9	6,2	Rundradio		
+6,2	6,525	Sjöfartsradio		
+RR AP15
+RR AP17
+RR AP25
+Nöd- och säkerhetstrafik
+6,525	6,685	Luftfartsradio		
+RR AP27
+6,685	6,765	Luftfartsradio		
+RR AP26
+6,765	7	Fast radio		
+6,765	7	Landmobil radio		
+7	7,2	Amatörradio		
+Undantag från tillståndsplikt
+7,2	7,45	Rundradio		
+7,3	23	Euroloop		
+Undantag från tillståndsplikt
+Not 1
+7,45	8,1	Landmobil radio		
+7,45	8,195	Fast radio		
+8,1	8,195	Sjöfartsradio		
+8,195	8,815	Sjöfartsradio		
+RR AP15
+RR AP17
+RR AP25
+Nöd- och säkerhetstrafik
+8,815	8,965	Luftfartsradio		
+RR AP27
+8,965	9,04	Luftfartsradio		
+RR AP26
+9,04	9,4	Fast radio		
+9,4	9,9	Rundradio		
+9,9	9,995	Fast radio		
+9,995	10,005	Standardfrekvens och tidssignal		
+10,005	10,1	Luftfartsradio		
+RR AP27
+10,1	10,15	Amatörradio		
+Undantag från tillståndsplikt
+10,1	11,175	Fast radio		
+10,15	11,175	Sjöfartsradio		
+10,15	11,175	Landmobil radio		
+11,275	11,4	Luftfartsradio		
+RR AP27
+11,4	11,6	Fast radio		
+11,6	12,1	Rundradio		
+12,1	12,23	Fast radio		
+12,23	13,2	Sjöfartsradio		
+RR AP15
+RR AP17
+RR AP25
+Nöd- och säkerhetstrafik
+13,2	13,26	Luftfartsradio		
+RR AP26
+13,26	13,36	Luftfartsradio		
+RR AP27
+13,36	13,57	Fast radio		
+13,36	13,41	Radioastronomi		
+Onsala rymdobservatorium
+13,41	13,57	Landmobil radio		
+13,41	13,57	Sjöfartsradio		
+13,553	13,567	RFID		
+Undantag från tillståndsplikt
+Not 1
+13,553	13,567	Allmän kortdistansradio		
+Undantag från tillståndsplikt
+Not 1
+13,87	14	Landmobil radio		
+13,87	14	Sjöfartsradio		
+13,87	14	Fast radio		
+14	14,35	Amatörradio		
+Undantag från tillståndsplikt
+14,35	14,99	Sjöfartsradio		
+14,35	14,99	Fast radio		
+14,35	14,99	Landmobil radio		
+14,99	15,01	Standardfrekvens och tidssignal		
+15,01	15,1	Luftfartsradio		
+RR AP26
+15,1	15,8	Rundradio		
+15,8	16,36	Fast radio		
+16,36	17,41	Sjöfartsradio		
+RR AP15
+RR AP17
+RR AP25
+Nöd- och säkerhetstrafik
+17,41	17,48	Fast radio		
+17,48	17,9	Rundradio		
+17,9	17,97	Luftfartsradio		
+RR AP27
+17,97	18,03	Luftfartsradio		
+RR AP26
+18,03	18,068	Fast radio		
+18,068	18,168	Amatörradio		
+Undantag från tillståndsplikt
+18,168	18,78	Sjöfartsradio		
+18,168	18,78	Fast radio		
+18,168	18,78	Landmobil radio		
+18,78	18,9	Sjöfartsradio		
+RR AP17
+18,9	19,02	Rundradio		
+19,02	19,68	Fast radio		
+19,68	19,8	Sjöfartsradio		
+RR AP15
+RR AP17
+RR AP25
+Nöd- och säkerhetstrafik
+19,8	19,99	Fast radio		
+19,99	20,01	Standardfrekvens och tidssignal		
+20,01	21	Fast radio		
+20,01	21	Landmobil radio		
+21	21,45	Amatörradio		
+Undantag från tillståndsplikt
+21,45	21,85	Rundradio		
+21,85	21,924	Fast radio		
+21,924	22	Luftfartsradio		
+RR AP27
+22	22,855	Sjöfartsradio		
+RR AP15
+RR AP17
+RR AP25
+Nöd- och säkerhetstrafik
+22,855	24,89	Fast radio		
+23	23,2	Sjöfartsradio		
+23	23,2	Landmobil radio		
+23,2	23,35	Luftfartsradio		
+23,35	24	Sjöfartsradio		
+23,35	24	Landmobil radio		
+24,89	24,99	Amatörradio		
+Undantag från tillståndsplikt
+24,99	25,01	Standardfrekvens och tidssignal		
+25,01	25,07	Sjöfartsradio		
+25,01	25,07	Fast radio		
+25,01	25,07	Landmobil radio		
+25,07	25,21	Sjöfartsradio		
+RR AP17
+25,21	25,55	Sjöfartsradio		
+25,21	25,55	Fast radio		
+25,21	25,55	Landmobil radio		
+25,55	25,67	Radioastronomi		
+Onsala rymdobservatorium
+25,67	26,1	Rundradio		
+26,1	26,175	Sjöfartsradio		
+RR AP15
+RR AP17
+RR AP25
+Nöd- och säkerhetstrafik
+26,175	27,5	Fast radio		
+26,175	28	Landmobil radio		
+26,175	27,5	Personsökning		
+26,82	27,2	Telemetri och radiostyrning		
+Undantag från tillståndsplikt
+26,85	26,86	Larmöverföring		
+Undantag från tillståndsplikt
+26,957	27,283	Allmän kortdistansradio		
+Undantag från tillståndsplikt
+Not 1
+26,99	27	Trådlösa barnvaktssystem		
+Undantag från tillståndsplikt
+27,5	30	Induktiva tillämpningar		
+Undantag från tillståndsplikt
+Not 1
+27,5	30	Radiobestämning		
+Undantag från tillståndsplikt
+Not 1
+28	29,7	Amatörradio		
+Undantag från tillståndsplikt
+29,7	37,5	Landmobil radio		
+30	130	Radiobestämning		
+Undantag från tillståndsplikt
+Not 1
+30	37,5	Aktiva medicinska implantat		
+Undantag från tillståndsplikt
+Not 1
+30,015	30,025	Telemetri och radiostyrning		
+Undantag från tillståndsplikt
+Radiostyrning av trafikljus
+30,265	30,355	Telemetri och radiostyrning		
+Undantag från tillståndsplikt
+30,925	31,375	Landmobil radio		
+Undantag från tillståndsplikt
+34,995	35,275	Radiostyrning av modellflygplan		
+Undantag från tillståndsplikt
+37,5	41,015	Landmobil radio		
+37,5	38,25	Radioastronomi		
+Onsala rymdobservatorium
+39,525	39,55	Telemetri och radiostyrning		
+Undantag från tillståndsplikt
+40,45	40,575	Telemetri och radiostyrning		
+Undantag från tillståndsplikt
+40,66	40,8	Telemetri och radiostyrning		
+Undantag från tillståndsplikt
+40,66	40,7	Allmän kortdistansradio		
+Undantag från tillståndsplikt
+Not 1
+50	52	Amatörradio		
+Undantag från tillståndsplikt
+68	74,8	Landmobil radio		
+ECC/DEC/(19)02
+68	74,8	PMR		
+ECC/DEC/(19)02
+69,6	69,725	PMR		
+Undantag från tillståndsplikt
+ECC/DEC/(19)02
+69,6	69,725	Landmobil radio		
+Undantag från tillståndsplikt
+ECC/DEC/(19)02
+73	74,6	Radioastronomi		
+Onsala rymdobservatorium
+74,8	75,2	Radionavigering för luftfart		
+75,2	75,625	Landmobil radio		
+ECC/DEC/(19)02
+75,2	75,625	PMR		
+ECC/DEC/(19)02
+77,475	80,625	Landmobil radio		
+ECC/DEC/(19)02
+77,475	80,625	PMR		
+ECC/DEC/(19)02
+82,475	87,5	Landmobil radio		
+ECC/DEC/(19)02
+82,475	87,5	PMR		
+ECC/DEC/(19)02
+87,5	108	FM analog ljudradio		
+Band II, GE84
+87,5	108	Ljudöverföring		
+Undantag från tillståndsplikt
+Not 1
+87,5	108	Rundradio		
+Band II, GE84
+108	117,975	Radionavigering för luftfart		
+ILS, VOR
+117,975	137	Luftfartsradio		
+121,45	121,55	Luftfartsradio (ELT)		
+Undantag från tillståndsplikt
+RR AP15
+Positionsbestämning COSPAS/SARSAT
+Nöd- och säkerhetstrafik
+121,45	121,55	Personlig radio (PLB)		
+Undantag från tillståndsplikt
+RR AP15
+Positionsbestämning COSPAS/SARSAT
+Nöd- och säkerhetstrafik
+121,45	121,55	Sjöfartsradio (EPIRB)		
+Undantag från tillståndsplikt
+RR AP15
+Positionsbestämning COSPAS/SARSAT
+Nöd- och säkerhetstrafik
+137	138	Satellit		
+MSS nedlänk
+ERC/DEC/(99)05
+138	143,6	Landmobil radio		
+138	162,025	Militär användning		
+144	146	Amatörradio		
+Undantag från tillståndsplikt
+147	149,9	Landmobil radio		
+ECC/DEC/(19)02
+148	150,05	Jordstationer (mobila satellitsystem)		
+MSS upplänk
+Undantag från tillståndsplikt
+ERC/DEC/(99)05
+ERC/DEC/(99)06
+150,05	153	Radioastronomi		
+Onsala rymdobservatorium
+151	153	Landmobil radio		
+ECC/DEC/(19)02
+151,52	151,555	Spårning, pejling och datainsamling		
+Undantag från tillståndsplikt
+151,52	152,2675	Radiopejling av djur		
+Undantag från tillståndsplikt
+154	155,9875	Landmobil radio		
+ECC/DEC/(19)02
+154	155,9875	Sjöfartsradio		
+155,3875	155,5375	Landmobil radio		
+Undantag från tillståndsplikt
+ECC/DEC/(19)02
+155,9875	156,0125	Landmobil radio		
+Undantag från tillståndsplikt
+ECC/DEC/(19)02
+156,2875	156,3125	Sjöfartsradio		
+RR AP15
+RR AP18
+Nöd- och säkerhetstrafik
+156,3625	156,3875	Sjöfartsradio		
+RR AP18
+156,3875	156,4375	Sjöfartsradio		
+RR AP18
+156,4375	156,4625	Sjöfartsradio		
+RR AP18
+156,4625	156,4875	Sjöfartsradio		
+RR AP18
+156,4875	156,5125	Sjöfartsradio		
+RR AP18
+156,4875	156,7625	Landmobil radio		
+156,5125	156,5375	Sjöfartsradio		
+RR AP15
+RR AP18
+Nöd- och säkerhetstrafik
+ECC/DEC/(22)02
+156,5375	156,5625	Sjöfartsradio		
+RR AP18
+156,5625	156,6125	Sjöfartsradio		
+RR AP18
+156,6125	156,6375	Sjöfartsradio		
+RR AP18
+156,6375	156,6625	Sjöfartsradio		
+RR AP15
+RR AP18
+Nöd- och säkerhetstrafik
+156,6625	156,6875	Sjöfartsradio		
+RR AP18
+156,6875	156,7375	Sjöfartsradio		
+RR AP18
+156,7375	156,7625	Sjöfartsradio		
+RR AP18
+156,7625	156,7875	Sjöfartsradio		
+RR AP18
+156,7875	156,8125	Sjöfartsradio		
+RR AP15
+RR AP18
+Nöd- och säkerhetstrafik
+156,8125	156,8375	Sjöfartsradio		
+RR AP18
+156,8375	156,8625	Sjöfartsradio		
+RR AP18
+156,8375	158,075	Landmobil radio		
+156,8375	158,075	PMR		
+156,8625	156,8875	Sjöfartsradio		
+RR AP18
+157,1875	157,3375	Sjöfartsradio		
+RR AP18
+ECC/DEC/(19)03
+157,3375	157,4375	Sjöfartsradio		
+RR AP18
+160,6125	162,0375	Landmobil radio		
+160,6125	162,0375	PMR		
+160,8875	160,9125	Sjöfartsradio		
+RR AP18
+ECC/DEC/(22)02
+161,7875	161,9375	Sjöfartsradio		
+RR AP18
+ECC/DEC/(19)03
+161,9375	161,9625	Sjöfartsradio		
+RR AP18
+ECC/DEC/(19)03
+161,9625	161,9875	Sjöfartsradio		
+RR AP15
+RR AP18
+Nöd- och säkerhetstrafik
+ECC/DEC/(22)02
+161,9875	162,0125	Sjöfartsradio		
+RR AP18
+162,0125	162,0375	Sjöfartsradio		
+RR AP15
+RR AP18
+Nöd- och säkerhetstrafik
+ECC/DEC/(22)02
+166	166,075	PMR		
+166	166,075	Landmobil radio		
+168,625	170,025	PMR		
+168,625	170,025	Landmobil radio		
+168,625	170,025	Personsökning		
+169,375	169,4	Allmän kortdistansradio		
+Undantag från tillståndsplikt
+169,4	169,8125	Allmän kortdistansradio		
+Undantag från tillståndsplikt
+Not 1
+169,4	169,475	Hörselhjälpmedel		
+Undantag från tillståndsplikt
+Not 1
+169,4875	169,5875	Hörselhjälpmedel		
+Undantag från tillståndsplikt
+Not 1
+173,965	216	Hörselhjälpmedel		
+Undantag från tillståndsplikt
+Not 1
+Band III, kanal 5 - 11, GE06
+174	223	Rundradio (T-DAB)		
+Även DVB-T2
+Band III, kanal 5 - 11, GE06
+Regeringens beslut om sändningsutrymme för kommersiell radio Ku2010/1721/MFI (tills vidare)
+174	240	Ljudöverföring		
+ERC/REC 70-03
+223	230	Rundradio (T-DAB)		
+Även DVB-T2
+Band III, kanal 12, GE06
+Regeringens beslut om sändningsutrymme för kommersiell radio Ku2010/1721/MFI (tills vidare)
+223	230	Rundradio (DVB-T)		
+Även DVB-T2
+Band III, kanal 12, GE06
+Regeringens beslut om sändningsutrymme för tv-sändningar Ku2018/01183/MD och Ku2019/01817/MD (tom 31 december 2025)
+230	240	Rundradio (T-DAB)		
+WI95revCO07
+Regeringens beslut om sändningsutrymme för kommersiell radio Ku2010/1721/MFI (tills vidare)
+230	386	Militär användning		
+230,016	236,544	Radar		
+EISCAT
+240	267	Luftfartsradio		
+242,95	243,05	SAR (kommunikation)		
+328,6	335,4	Radionavigering för luftfart		
+ILS Glide Path
+336	339	Ljudlänkar		
+357	360	Ljudlänkar		
+387	390	Militär användning		
+395	399,9	Militär användning		
+399,9	400,05	Jordstationer (mobila satellitsystem)		
+MSS upplänk
+400,05	400,15	Standardfrekvens och tidssignal via satellit		
+400,15	404	Meteorologi		
+400,15	404	Ballongburna radiosonder		
+400,15	401	Satellit		
+MSS nedlänk
+ERC/DEC/(99)05
+401	402	Rymdfarkostkontroll		
+Nedlänk
+401	406	Aktiva medicinska implantat		
+Undantag från tillståndsplikt
+Not 1
+ERC/DEC/(01)17
+402	403	Meteorologi via satellit		
+Upplänk
+402	403	Jordutforskning via satellit		
+Upplänk
+404	405,9	Landmobil radio		
+406	406,1	Sjöfartsradio (EPIRB)		
+Undantag från tillståndsplikt
+RR AP15
+Positionsbestämning COSPAS/SARSAT
+Nöd- och säkerhetstrafik
+406	406,1	Luftfartsradio (ELT)		
+Undantag från tillståndsplikt
+RR AP15
+Positionsbestämning COSPAS/SARSAT
+Nöd- och säkerhetstrafik
+406	406,1	Personlig radio (PLB)		
+Undantag från tillståndsplikt
+RR AP15
+Positionsbestämning COSPAS/SARSAT
+Nöd- och säkerhetstrafik
+406,2	410	PMR		
+ECC/DEC/(19)02
+406,2	410	Landmobil radio		
+ECC/DEC/(19)02
+406,2	450	Militär användning		
+429,4375	429,4625	Larmöverföring		
+Undantag från tillståndsplikt
+430	432	Fast radio		
+kanalplan ECC/REC TR 25-08
+430	440	Insamling medicinska data		
+Undantag från tillståndsplikt
+Not 1
+432	438	Amatörradio		
+Undantag från tillståndsplikt
+433,05	434,79	Allmän kortdistansradio		
+Undantag från tillståndsplikt
+Not 1
+438	439,6875	Telemetri och radiostyrning		
+439,6875	439,9875	Telemetri och radiostyrning		
+Undantag från tillståndsplikt
+440	442	Fast radio		
+kanalplan ECC/REC TR 25-08
+443,9875	444,4125	Telemetri och radiostyrning		
+Undantag från tillståndsplikt
+444	444,5875	Telemetri och radiostyrning		
+444	444,5875	Landmobil radio		
+ECC/DEC/(19)02
+444,5875	448	Landmobil radio		
+ECC/DEC/(19)02
+444,5875	444,9875	Landmobil radio		
+Undantag från tillståndsplikt
+444,5875	448	PMR		
+ECC/DEC/(19)02
+446	446,2	PMR 446		
+Undantag från tillståndsplikt
+Not 1
+ECC/DEC/(15)05
+ECC/DEC/(19)02
+470	694	Rundradio (DVB-T)		
+Även DVB-T2
+Band IV/V, kanal 21-48, GE06
+Regeringens beslut om sändningsutrymme för tv-sändningar Ku2018/01183/MD och Ku2019/01817/MD (tom 31 december 2025)
+Beslut 2017/899/EU
+470	694	Ljudöverföring		
+ERC/REC 70-03
+694	790	MFCN		
+Blocktillstånd
+Undantag från tillståndsplikt
+Regeringens beslut om sändningsutrymme för tv-sändningar Ku2024/01347 (för 703-713 MHz och 758-768 MHz tom 30 juni 2025)
+Beslut 2016/687/EU
+Beslut 2017/899/EU
+ECC/DEC(15)01
+ECC/DEC/(16)02
+ECC/DEC/(22)01
+790	862	MFCN		
+Blocktillstånd
+Undantag från tillståndsplikt
+Beslut 2010/267/EU
+ECC/DEC/(09)03
+ECC/DEC/(22)01
+821,5	832	Ljudöverföring		
+Undantag från tillståndsplikt
+Not 1
+862	870	Allmän kortdistansradio		
+Undantag från tillståndsplikt
+Not 1
+863	865	Ljudöverföring		
+Undantag från tillståndsplikt
+Not 1
+863	868	Dataöverföring		
+Undantag från tillståndsplikt
+Not 1
+865	868	RFID		
+Undantag från tillståndsplikt
+Not 1
+868,6	869,7	Larmöverföring		
+Undantag från tillståndsplikt
+Not 1
+869,2	869,25	Trygghetslarm		
+Undantag från tillståndsplikt
+Not 1
+870	874,4	Dataöverföring		
+Beslut (EU) 2018/1538, i lydelsen enligt beslut (EU) 2022/172
+ERC/REC 70-03
+870	874,4	Allmän kortdistansradio		
+Beslut (EU) 2018/1538, i lydelsen enligt beslut (EU) 2022/172
+ERC/REC 70-03
+870,5375	870,6625	Telemetri och radiostyrning		
+Undantag från tillståndsplikt
+915	919,4	Dataöverföring		
+Beslut (EU) 2018/1538, i lydelsen enligt beslut (EU) 2022/172
+ERC/REC 70-03
+915	919,4	Allmän kortdistansradio		
+Beslut (EU) 2018/1538, i lydelsen enligt beslut (EU) 2022/172
+ERC/REC 70-03
+916,1	918,9	RFID		
+Beslut (EU) 2018/1538, i lydelsen enligt beslut (EU) 2022/172
+960	1 215	Militär användning		
+960	1 215	Radionavigering för luftfart		
+DME
+1 087,7	1 092,3	Mobil luftfart via satellit (ADS-B)		
+1 164	1 215	Satellitnavigerings-system		
+GALILEO
+ECC/REC/(10)02
+1 164	1 191,795	Satellitnavigerings-system		
+GPS
+ECC/REC/(10)02
+1 191,795	1 215	Satellitnavigerings-system		
+GLONASS
+ECC/REC/(10)02
+1 215	1 237	Satellitnavigerings-system		
+GPS
+ECC/REC/(10)02
+1 215	1 400	Radiolokalisering		
+1 237	1 260	Satellitnavigerings-system		
+GLONASS
+ECC/REC/(10)02
+1 240	1 300	Amatörradio		
+Undantag från tillståndsplikt
+1 260	1 300	Satellitnavigerings-system		
+GALILEO
+ECC/REC/(10)02
+1 300	1 400	Militär användning		
+ECC/DEC/(11)01
+1 330	1 427	Radioastronomi		
+Onsala rymdobservatorium
+1 400	1 427	Jordutforskning via satellit		
+ECC/DEC/(11)01
+1 427	1 518	MFCN		
+Beslut (EU) 2015/750, i lydelsen enligt beslut (EU) 2018/661
+ECC/DEC/(11)01
+ECC/DEC(13)03
+ECC/DEC (17)06
+ECC/DEC/(22)01
+1 518	1 525	Satellit		
+MSS nedlänk
+ECC/DEC/(04)09
+ECC/DEC/(12)01
+1 518	1 544	Militär användning		
+1 525	1 559	Satellit		
+MSS nedlänk
+ECC/DEC/(12)01
+1 544	1 545	Sjöfartsradio		
+Nöd- och säkerhetstrafik
+1 545	1 559	Militär användning		
+1 559	1 591	Satellitnavigerings-system		
+GALILEO
+ECC/REC/(10)02
+1 563	1 587	Satellitnavigerings-system		
+GPS
+ECC/REC/(10)02
+1 591	1 610	Satellitnavigerings-system		
+GLONASS
+ECC/REC/(10)02
+1 610	1 613,8	Jordstationer (mobila satellitsystem)		
+MSS upplänk
+Undantag från tillståndsplikt
+ECC/DEC/(09)02
+ECC/DEC/(12)01
+1 610,6	1 613,8	Radioastronomi		
+Onsala rymdobservatorium
+1 613,8	1 626,5	Jordstationer (mobila satellitsystem)		
+MSS upplänk
+Undantag från tillståndsplikt
+ECC/DEC/(09)02
+ECC/DEC/(09)04
+ECC/DEC/(12)01
+1 626,5	1 645,5	Jordstationer (mobila satellitsystem)		
+MSS upplänk
+Undantag från tillståndsplikt
+ECC/DEC/(12)01
+1 645,5	1 646,5	Sjöfartsradio		
+Nöd- och säkerhetstrafik
+1 646,5	1 660,5	Jordstationer (mobila satellitsystem)		
+MSS upplänk
+Undantag från tillståndsplikt
+ECC/DEC/(12)01
+1 660	1 670	Radioastronomi		
+Onsala rymdobservatorium
+1 668	1 670	Jordstationer (mobila satellitsystem)		
+MSS upplänk
+1 670	1 675	Jordstationer (mobila satellitsystem)		
+MSS upplänk
+ECC/DEC/(04)09
+1 675	1 710	Meteorologi via satellit		
+1 718,8	1 722,2	Radioastronomi		
+Onsala rymdobservatorium
+1 785	1 804,8	Ljudöverföring		
+Undantag från tillståndsplikt
+Not 1
+1 880	1 900	DECT		
+Undantag från tillståndsplikt
+Direktiv 91/287/EEG
+ERC/DEC/(98)22
+1 900	1 910	Mobil radio för järnväg (RMR)		
+Beslut (EU) 2021/1730
+ECC/DEC/(20)02
+1 900	1 920	MFCN		
+Blocktillstånd
+ECC/DEC/(22)01
+1 980	2 010	Jordstationer (mobila satellitsystem)		
+MSS upplänk
+Blocktillstånd
+Undantag från tillståndsplikt
+Beslut nr 626/2008/EG, i lydelsen enligt förordning (EU) 2019/1243
+Beslut 2009/449/EG
+Beslut 2007/98/EG
+ECC/DEC/(06)09
+ECC/DEC/(06)10
+ECC/DEC/(12)01
+2 010	2 025	Video PMSE		
+Beslut (EU) 2016/339
+2 025	2 110	Rymdforskning		
+Esrange
+ESAs Kiruna station
+2 025	2 110	Rymdfarkostkontroll		
+Upplänk
+Satellit-satellit
+2 025	2 110	Militär användning		
+2 170	2 200	Satellit		
+MSS nedlänk
+Blocktillstånd
+Beslut nr 626/2008/EG, i lydelsen enligt förordning (EU) 2019/1243
+Beslut 2009/449/EG
+Beslut 2007/98/EG
+ECC/DEC/(06)09
+ECC/DEC/(06)10
+ECC/DEC/(12)01
+2 180	2 370	Radioastronomi		
+Onsala rymdobservatorium
+2 200	2 290	Rymdfarkostkontroll		
+Nedlänk
+Satellit-satellit
+2 200	2 300	Militär användning		
+2 200	2 290	Rymdforskning		
+Esrange
+ESAs Kiruna station
+2 300	2 380	MFCN		
+Blocktillstånd
+ECC/DEC/(14)02
+ECC/DEC/(22)01
+2 380	2 400	MFCN		
+ECC/DEC/(14)02
+ECC/DEC/(22)01
+2 400	2 483,5	Dataöverföring		
+Undantag från tillståndsplikt
+Not 1
+2 400	2 483,5	Allmän kortdistansradio		
+Undantag från tillståndsplikt
+Not 1
+2 400	2 483,5	Landmobil radio		
+2 400	2 483,5	Militär användning		
+2 400	2 450	Amatörradio		
+Undantag från tillståndsplikt
+2 400	2 483,5	Radiobestämning		
+Undantag från tillståndsplikt
+Not 1
+2 446	2 454	RFID		
+Undantag från tillståndsplikt
+Not 1
+2 483,5	2 500	Satellit		
+MSS nedlänk
+ECC/DEC/(09)02
+ECC/DEC/(12)01
+2 483,5	2 500	MBANS		
+Undantag från tillståndsplikt
+Not 1
+2 483,5	2 500	Aktiva medicinska implantat		
+Undantag från tillståndsplikt
+Not 1
+2 500	2 690	MFCN		
+Blocktillstånd
+Undantag från tillståndsplikt
+Beslut 2008/477/EG, i lydelsen enligt beslut (EU) 2020/636
+Beslut (EU) 2024/340
+ECC/DEC/(05)05
+ECC/DEC/(08)08
+ECC/DEC/(22)01
+2 655	2 690	Radioastronomi		
+Onsala rymdobservatorium
+2 690	2 700	Radioastronomi		
+Onsala rymdobservatorium
+2 700	2 900	Radiolokalisering		
+2 700	2 900	Radionavigering för luftfart		
+2 700	2 900	Meteorologisk radar		
+2 900	3 100	Sjöfartsradar		
+Undantag från tillståndsplikt
+2 900	3 400	Militär användning		
+2 900	3 100	Radionavigering för sjöfart		
+3 100	3 400	Radiolokalisering		
+3 260	3 267	Radioastronomi		
+Onsala rymdobservatorium
+3 332	3 339	Radioastronomi		
+Onsala rymdobservatorium
+3 345,8	3 352,5	Radioastronomi		
+Onsala rymdobservatorium
+3 400	3 720	MFCN		
+Blocktillstånd
+Beslut 2008/411/EG, i lydelsen enligt beslut (EU) 2019/235
+ECC/DEC/(11)06
+ECC/DEC/(22)01
+3 720	3 800	MFCN		
+Blocktillstånd (lokala tillstånd)
+Beslut 2008/411/EG, i lydelsen enligt beslut (EU) 2019/235
+ECC/DEC/(11)06
+ECC/DEC/(22)01
+3 800	4 200	MFCN		
+ECC/DEC/(24)01
+3 800	4 200	Satellit		
+FSS nedlänk
+ECC/DEC/(05)09
+3 900	4 990	Militär användning		
+4 200	4 400	Radionavigering för luftfart		
+4 200	4 400	Höjdmätare		
+4 200	4 400	Mobil luftfartsradio (WAIC)		
+4 500	7 000	Nivåmätare för kärl och behållare (TLPR)		
+Undantag från tillståndsplikt
+Not 1
+4 500	4 800	Satellit		
+FSS nedlänk
+RR AP30B
+4 800	5 000	Radioastronomi		
+Onsala rymdobservatorium
+5 000	5 250	Radionavigering för luftfart		
+5 030	5 150	Luftfartsradio (MLS)		
+5 091	5 850	Militär användning		
+5 150	5 350	Dataöverföring		
+Undantag från tillståndsplikt
+Beslut (EU) 2022/179, i lydelsen enligt beslut (EU) 2022/2307
+ECC/DEC/(04)08
+5 150	5 250	Luftfartsradio (telemetri)		
+5 350	5 470	Jordutforskning via satellit		
+Copernicus
+5 440	5 440	Radionavigering för luftfart		
+5 440	5 440	Radiofyrar för luftfart		
+5 460	5 470	Radionavigering för luftfart		
+5 470	5 650	Radionavigering för sjöfart		
+Undantag från tillståndsplikt
+5 470	5 725	Dataöverföring		
+Undantag från tillståndsplikt
+Beslut (EU) 2022/179, i lydelsen enligt beslut (EU) 2022/2307
+ECC/DEC/(04)08
+5 525	5 525	Radionavigering för luftfart		
+5 525	5 525	Radiofyrar för luftfart		
+5 600	5 650	Meteorologisk radar		
+5 650	5 850	Amatörradio		
+Undantag från tillståndsplikt
+5 725	5 875	Allmän kortdistansradio		
+Undantag från tillståndsplikt
+Not 1
+5 795	5 815	Väg- och fordonstelemetri		
+Undantag från tillståndsplikt
+Not 1
+5 855	5 875	ITS		
+Undantag från tillståndsplikt
+Not 1
+5 875	5 925	ITS		
+Undantag från tillståndsplikt
+Beslut (EU) 2020/1426
+Säkerhetsrelaterade tillämpningar
+5 875	6 725	Jordstationer (fasta satellitsystem)		
+FSS upplänk
+ECC/DEC/(05)09
+5 925	5 935	ITS		
+Beslut (EU) 2020/1426
+Säkerhetsrelaterade tillämpningar
+5 945	6 425	Dataöverföring		
+Undantag från tillståndsplikt
+Beslut (EU) 2021/1067
+ECC/DEC/(20)01
+6 000	8 500	Nivåmätare (LPR)		
+Undantag från tillståndsplikt
+Not 1
+ECC/DEC/(11)02
+6 425	7 025	Jordutforskning via satellit		
+Användning över hav
+6 650	6 675,2	Radioastronomi		
+Onsala rymdobservatorium
+6 725	7 025	Jordstationer (fasta satellitsystem)		
+FSS upplänk
+RR AP30B
+7 025	7 075	Jordstationer (fasta satellitsystem)		
+FSS upplänk
+7 075	7 250	Jordutforskning via satellit		
+Användning över hav
+7 125	7 424	Militär användning		
+7 190	7 250	Jordutforskning via satellit		
+TT&C Upplänk
+7 250	7 750	Satellit		
+FSS nedlänk
+7 450	7 550	Meteorologi via satellit		
+7 750	7 900	Meteorologi via satellit		
+7 900	8 400	Jordstationer (fasta satellitsystem)		
+FSS upplänk
+8 025	8 400	Jordutforskning via satellit		
+8 190	9 000	Radioastronomi		
+Onsala rymdobservatorium
+8 400	8 500	Rymdforskning		
+8 500	10 600	Nivåmätare för kärl och behållare (TLPR)		
+Undantag från tillståndsplikt
+Not 1
+8 500	10 210	Militär användning		
+8 500	8 850	Radiolokalisering		
+8 750	8 850	Radionavigering för luftfart		
+8 750	8 850	Flygburen dopplernavigerings-utrustning		
+9 000	9 200	Radionavigering för luftfart		
+9 000	9 200	Radiolokalisering		
+9 200	9 300	Jordutforskning via satellit		
+9 225	9 500	Sjöfartsradar		
+Undantag från tillståndsplikt
+9 300	9 500	Meteorologisk radar		
+9 900	10 400	Jordutforskning via satellit		
+10 000	10 210	Radiolokalisering		
+10 000	10 500	Amatörradio		
+Undantag från tillståndsplikt
+10 250	10 280	Radiobestämning		
+Undantag från tillståndsplikt
+10 350	10 380	Radiobestämning		
+Undantag från tillståndsplikt
+10 450	10 560	Militär användning		
+10 510	10 580	Radiobestämning		
+Undantag från tillståndsplikt
+10 600	10 680	Jordutforskning via satellit		
+RES751 (WRC-07)
+10 600	10 700	Radioastronomi		
+Onsala rymdobservatorium
+10 644	10 680	Radiolokalisering		
+10 700	10 950	Satellit		
+FSS nedlänk
+RR AP30B
+ERC/DEC(00)08
+ECC/DEC(03)04
+ECC/DEC/(05)10
+ECC/DEC/(05)11
+ECC/DEC/(06)03
+ECC/DEC/(17)04
+ECC/DEC/(18)04
+ECC/DEC/(18)05
+ECC/DEC/(19)04
+10 950	11 200	Satellit		
+FSS nedlänk
+ERC/DEC(00)08
+ECC/DEC(03)04
+ECC/DEC/(05)10
+ECC/DEC/(05)11
+ECC/DEC/(06)03
+ECC/DEC/(17)04
+ECC/DEC/(18)04
+ECC/DEC/(18)05
+ECC/DEC/(19)04
+11 200	11 450	Satellit		
+FSS nedlänk
+RR AP30B
+ERC/DEC(00)08
+ECC/DEC(03)04
+ECC/DEC/(05)10
+ECC/DEC/(05)11
+ECC/DEC/(06)03
+ECC/DEC/(17)04
+ECC/DEC/(18)04
+ECC/DEC/(18)05
+ECC/DEC/(19)04
+11 450	11 700	Satellit		
+FSS nedlänk
+ERC/DEC(00)08
+ECC/DEC(03)04
+ECC/DEC/(05)10
+ECC/DEC/(05)11
+ECC/DEC/(06)03
+ECC/DEC/(17)04
+ECC/DEC/(18)04
+ECC/DEC/(18)05
+ECC/DEC/(19)04
+11 700	12 500	Rundradio via satellit		
+BSS nedlänk
+RR AP30
+ERC/DEC(00)08
+ECC/DEC/(06)03
+ECC/DEC/(17)04
+ECC/DEC/(18)04
+ECC/DEC/(18)05
+ECC/DEC/(19)04
+12 500	12 750	Satellit		
+FSS nedlänk
+ECC/DEC/(05)10
+ECC/DEC/(05)11
+ECC/DEC/(06)03
+ECC/DEC/(17)04
+ECC/DEC/(18)04
+ECC/DEC/(18)05
+ECC/DEC/(19)04
+12 750	14 000	Militär användning		
+12 750	13 250	Jordstationer (fasta satellitsystem)		
+FSS upplänk
+RR AP30B
+ECC/DEC/(19)04
+13 250	13 400	Radionavigering för luftfart		
+13 250	13 400	Flygburen dopplernavigerings-utrustning		
+13 400	14 000	Radiobestämning		
+Undantag från tillståndsplikt
+13 400	14 000	Radiolokalisering		
+13 400	13 650	Satellit		
+FSS (nedlänk)
+13 750	14 000	Jordstationer (fasta satellitsystem)		
+FSS upplänk
+14 000	14 500	Jordstationer (fasta satellitsystem)		
+FSS upplänk
+Undantag från tillståndsplikt
+ECC/DEC/(05)10
+ECC/DEC/(17)04
+ECC/DEC/(18)04
+ECC/DEC/(18)05
+14 000	14 250	Jordstationer (fasta satellitsystem)		
+FSS upplänk
+Undantag från tillståndsplikt
+ECC/DEC/(06)03
+14 000	14 500	Jordstationer (mobila satellitsystem)		
+MSS upplänk
+Undantag från tillståndsplikt
+ECC/DEC/(05)11
+14 250	14 500	Jordstationer (fasta satellitsystem)		
+FSS upplänk
+Undantag från tillståndsplikt
+ECC/DEC/(03)04
+14 470	14 500	Radioastronomi		
+Onsala rymdobservatorium
+14 500	15 350	Militär användning		
+14 500	14 800	Rymdforskning		
+15 350	15 400	Radioastronomi		
+Onsala rymdobservatorium
+15 350	15 400	Jordutforskning via satellit		
+15 400	15 700	Radionavigering för luftfart		
+15 400	17 300	Militär användning		
+17 100	17 300	Dataöverföring		
+Undantag från tillståndsplikt
+17 100	17 300	GBSAR		
+17 100	17 300	Radiobestämning		
+Undantag från tillståndsplikt
+Not 1
+17 300	18 100	Matarlänkar (satellit)		
+FSS upplänk
+RR AP30A
+ECC/DEC/(13)01
+ECC/DEC/(05)08
+17 700	19 300	Satellit		
+FSS nedlänk
+ERC/DEC/(00)07
+ECC/DEC/(13)01
+17 700	18 100	Militär användning		
+18 100	18 400	Jordstationer (fasta satellitsystem)		
+FSS
+ECC/DEC/(13)01
+18 600	18 800	Jordutforskning via satellit		
+18 600	19 300	Militär användning		
+19 300	19 700	Satellit		
+FSS
+ERC/DEC/(00)07
+ECC/DEC/(13)01
+19 700	20 100	Satellit		
+FSS nedlänk
+ECC/DEC/(05)08
+ECC/DEC/(06)03
+ECC/DEC/(13)01
+ECC/DEC/(15)04
+20 100	21 200	Satellit		
+FSS nedlänk
+ECC/DEC/(05)08
+ECC/DEC/(06)03
+ECC/DEC/(13)01
+ECC/DEC/(15)04
+MSS nedlänk
+21 200	21 400	Jordutforskning via satellit		
+21 400	22 000	Rundradio via satellit		
+BSS nedlänk
+21 650	24 250	Fordonsradar (SRR)		
+Undantag från tillståndsplikt
+Beslut 2005/50/EG, i lydelsen enligt beslut (EU) 2017/2077
+ECC/DEC/(04)10
+22 010	22 500	Radioastronomi		
+Onsala rymdobservatorium
+22 210	23 600	Militär användning		
+22 810	22 860	Radioastronomi		
+Onsala rymdobservatorium
+23 070	23 120	Radioastronomi		
+Onsala rymdobservatorium
+23 600	24 000	Radioastronomi		
+Onsala rymdobservatorium
+23 600	24 000	Rymdforskning		
+23 600	24 000	Jordutforskning via satellit		
+EUMETSAT
+24 000	24 250	Radiobestämning		
+Undantag från tillståndsplikt
+24 000	24 250	Allmän kortdistansradio		
+Undantag från tillståndsplikt
+Not 1
+24 000	24 250	Amatörradio		
+Undantag från tillståndsplikt
+24 050	27 000	Nivåmätare för kärl och behållare (TLPR)		
+Undantag från tillståndsplikt
+Not 1
+24 050	26 500	Nivåmätare (LPR)		
+Undantag från tillståndsplikt
+Not 1
+ECC/DEC/(11)02
+24 050	24 250	Transport- och trafiktelematik (TTT)		
+Undantag från tillståndsplikt
+Not 1
+24 250	26 650	Fordonsradar (SRR)		
+Undantag från tillståndsplikt
+Beslut 2005/50/EG, i lydelsen enligt beslut (EU) 2017/2077
+ECC/DEC/(04)10
+24 250	25 100	MFCN		
+Blocktillstånd (lokala tillstånd)
+Beslut (EU) 2019/784, i lydelsen enligt beslut 2020/590
+ECC/DEC/(18)06
+ECC/DEC/(22)01
+25 100	27 500	MFCN		
+Beslut (EU) 2019/784, i lydelsen enligt beslut 2020/590
+ECC/DEC/(18)06
+ECC/DEC/(22)01
+25 500	27 000	Jordutforskning via satellit		
+Nedlänk
+EUMETSAT
+27 500	27 940,5	Jordstationer (fasta satellitsystem)		
+FSS upplänk
+ECC/DEC/(05)01
+ECC/DEC/(13)01
+ECC/DEC/(15)04
+28 444,5	28 948,5	Jordstationer (fasta satellitsystem)		
+FSS upplänk
+ECC/DEC/(05)01
+ECC/DEC/(13)01
+ECC/DEC/(15)04
+29 452,5	29 500	Jordstationer (fasta satellitsystem)		
+FSS upplänk
+ECC/DEC/(05)01
+ECC/DEC/(13)01
+29 500	30 000	Jordstationer (fasta satellitsystem)		
+FSS upplänk
+Undantag från tillståndsplikt
+ECC/DEC/(05)08
+ECC/DEC/(06)03
+ECC/DEC/(13)01
+ECC/DEC/(15)04
+29 500	30 000	Jordstationer (mobila satellitsystem)		
+MSS upplänk
+Undantag från tillståndsplikt
+30 000	31 000	Militär användning		
+31 200	31 800	Radioastronomi		
+Onsala rymdobservatorium
+31 300	31 800	Jordutforskning via satellit		
+ECC/DEC/(10)02
+31 800	31 815	Övrigt		
+32 571	32 627	Övrigt		
+33 383	34 000	Övrigt		
+34 000	35 200	Militär användning		
+35 200	36 430	Övrigt		
+36 430	36 500	Radioastronomi		
+Onsala rymdobservatorium
+36 500	37 058	Övrigt		
+37 500	40 500	Satellit		
+Nedlänk
+ERC/DEC/(00)02
+40 500	42 500	Satellit		
+Nedlänk
+ECC/DEC/(23)01
+40 500	43 500	MFCN		
+Beslut (EU) 2024/1983
+ECC/DEC/(22)06
+42 500	43 500	Radioastronomi		
+Onsala rymdobservatorium
+42 500	43 500	Jordstationer (fasta satellitsystem)		
+Upplänk
+ECC/DEC/(23)01
+43 500	47 000	Övrigt		
+47 000	47 200	Amatörradio		
+Undantag från tillståndsplikt
+47 200	50 200	Satellit		
+FSS
+ECC/DEC/(05)08
+ECC/DEC/(21)01
+48 540	49 440	Radioastronomi		
+Onsala rymdobservatorium
+50 200	50 400	Radioastronomi		
+Onsala rymdobservatorium
+50 200	50 400	Rymdforskning		
+50 200	50 400	Jordutforskning via satellit		
+50 400	52 400	Jordstationer (fasta satellitsystem)		
+FSS upplänk
+ECC/DEC/(21)01
+52 400	52 600	Övrigt		
+52 600	55 780	Rymdforskning		
+52 600	57 000	Jordutforskning via satellit		
+57 000	64 000	Nivåmätare för kärl och behållare (TLPR)		
+Undantag från tillståndsplikt
+Not 1
+57 000	64 000	Nivåmätare (LPR)		
+Undantag från tillståndsplikt
+Not 1
+ECC/DEC/(11)02
+57 000	66 000	Fast radio		
+Undantag från tillståndsplikt
+ERC/REC 70-03 Annex 3 (tabell 3-c3)
+57 000	64 000	Allmän kortdistansradio		
+Undantag från tillståndsplikt
+Not 1
+57 000	71 000	Dataöverföring		
+Undantag från tillståndsplikt
+Not 1
+63 720	65 880	Transport- och trafiktelematik (TTT)		
+Undantag från tillståndsplikt
+Not 1
+75 000	85 000	Nivåmätare (LPR)		
+Undantag från tillståndsplikt
+Not 1
+ECC/DEC/(11)02
+75 000	85 000	Nivåmätare för kärl och behållare (TLPR)		
+Undantag från tillståndsplikt
+Not 1
+75 500	81 000	Amatörradio		
+Undantag från tillståndsplikt
+76 000	116 000	Radioastronomi		
+Onsala rymdobservatorium
+76 000	77 000	Radiobestämning		
+ECC/DEC/(21)02
+76 000	77 000	Transport- och trafiktelematik (TTT)		
+Undantag från tillståndsplikt
+Not 1
+ECC/DEC/(16)01
+77 000	81 000	Fordonsradar (SRR)		
+Undantag från tillståndsplikt
+2004/545/EG
+77 500	78 000	Radiolokalisering		
+86 000	92 000	Jordutforskning via satellit		
+94 000	94 100	Meteorologisk radar		
+Molnmätningar
+100 000	116 000	Jordutforskning via satellit		
+116 000	148 500	Radiobestämning		
+ECC/DEC/(22)03
+122 000	123 000	Allmän kortdistansradio		
+Undantag från tillståndsplikt
+Not 1
+122 250	123 000	Amatörradio		
+Undantag från tillståndsplikt
+134 000	141 000	Amatörradio		
+Undantag från tillståndsplikt
+148 500	151 500	Jordutforskning via satellit		
+151 500	164 000	Radiobestämning		
+ECC/DEC/(22)03
+155 500	158 500	Jordutforskning via satellit		
+164 000	167 000	Jordutforskning via satellit		
+167 000	182 000	Radiobestämning		
+ECC/DEC/(22)03
+174 800	191 800	Jordutforskning via satellit		
+185 000	190 000	Radiobestämning		
+ECC/DEC/(22)03
+191 800	200 000	Radiobestämning		
+ECC/DEC/(22)03
+200 000	209 000	Jordutforskning via satellit		
+209 000	226 000	Radiobestämning		
+ECC/DEC/(22)03
+226 000	232 000	Jordutforskning via satellit		
+231 500	250 000	Radiobestämning		
+ECC/DEC/(22)03
+235 000	238 000	Jordutforskning via satellit		
+241 000	250 000	Amatörradio		
+Undantag från tillståndsplikt
+244 000	246 000	Allmän kortdistansradio		
+Undantag från tillståndsplikt
+Not 1
+250 000	252 000	Jordutforskning via satellit		
+252 000	260 000	Radiobestämning		
+ECC/DEC/(22)03
+260 000	275 000	Övrigt		
+275 000	277 000	Jordutforskning via satellit		
+277 000	294 000	Övrigt		
+294 000	306 000	Jordutforskning via satellit		
+306 000	316 000	Övrigt		
+316 000	334 000	Jordutforskning via satellit		
+334 000	342 000	Övrigt		
+342 000	349 000	Jordutforskning via satellit		
+349 000	363 000	Övrigt		
+363 000	365 000	Jordutforskning via satellit		
+365 000	371 000	Övrigt		
+371 000	389 000	Jordutforskning via satellit		
+389 000	416 000	Övrigt		
+416 000	434 000	Jordutforskning via satellit		
+434 000	442 000	Övrigt		
+442 000	444 000	Jordutforskning via satellit		
+444 000	496 000	Övrigt		
+496 000	506 000	Jordutforskning via satellit		
+506 000	546 000	Övrigt		
+546 000	568 000	Jordutforskning via satellit		
+568 000	3 000 000	Övrigt		
+450	452,5	Landmobil radio	,46 - ,4625	
+ECC/DEC/(19)02
+457,5	460	Landmobil radio	,4675 - ,47	
+ECC/DEC/(19)02
+10 560	10 616	MFCN	10210 - 10266	
+Blocktillstånd
+ECC/DEC/(10)01
+1 086	1 094	Luftfartsradio (SSR)	1026 - 1034	
+10 616	10 672	Fast radio	10266 - 10322	
+Svensk kanalplan
+ERC/REC 12-05
+10 210	10 266	MFCN	10560 - 10616	
+Blocktillstånd
+ECC/DEC/(10)01
+10 266	10 322	Fast radio	10616 - 10672	
+Svensk kanalplan
+ERC/REC 12-05
+1 026	1 034	Luftfartsradio (SSR)	1086 - 1094	
+13 017	13 129	Fast radio	12751 - 12863	
+ERC/REC 12-02
+12 751	12 863	Fast radio	13017 - 13129	
+ERC/REC 12-02
+14 921	15 201	Fast radio	14501 - 14781	
+Svensk kanalplan
+150,05	151	PMR	146,05 - 147	
+ECC/DEC/(19)02
+150,05	151	Landmobil radio	146,05 - 147	
+ECC/DEC/(19)02
+14 501	14 781	Fast radio	14921 - 15201	
+Svensk kanalplan
+146,05	147	Landmobil radio	150,05 - 151	
+ECC/DEC/(19)02
+146,05	147	PMR	150,05 - 151	
+ECC/DEC/(19)02
+160,6125	160,8875	Sjöfartsradio	156,0125 - 156,2875	
+RR AP18
+ECC/DEC/(19)03
+160,9125	160,9625	Sjöfartsradio	156,3125 - 156,3625	
+RR AP18
+ECC/DEC/(19)03
+161,4875	161,6125	Sjöfartsradio	156,8875 - 157,0125	
+RR AP18
+ECC/DEC/(19)03
+161,6125	161,7875	Sjöfartsradio	157,0125 - 157,1875	
+RR AP18
+ECC/DEC/(19)03
+166,075	168,6	Landmobil radio	158,075 - 160,6	
+166,075	168,6	PMR	158,075 - 160,6	
+156,0125	156,2875	Sjöfartsradio	160,6125 - 160,8875	
+RR AP18
+ECC/DEC/(19)03
+156,3125	156,3625	Sjöfartsradio	160,9125 - 160,9625	
+RR AP18
+ECC/DEC/(19)03
+156,8875	157,0125	Sjöfartsradio	161,4875 - 161,6125	
+RR AP18
+157,0125	157,1875	Sjöfartsradio	161,6125 - 161,7875	
+RR AP18
+ECC/DEC/(19)03
+170,025	171	PMR	162,025 - 163	
+171	172	Militär användning	163 - 164	
+172	174	Landmobil radio	164 - 166	
+172	174	PMR	164 - 166	
+158,075	160,6	PMR	166,075 - 168,6	
+158,075	160,6	Landmobil radio	166,075 - 168,6	
+162,025	163	PMR	170,025 - 171	
+162,025	163	Landmobil radio	170,025 - 171	
+163	164	Militär användning	171 - 172	
+1 805	1 880	MFCN	1710 - 1785	
+Blocktillstånd
+Undantag från tillståndsplikt
+Beslut 2008/294/EG, i lydelsen enligt beslut (EU) 2022/2324
+Rekommendation 2008/295/EG
+Beslut (EU) 2022/173
+Beslut (EU) 2024/340
+Rekommendation 2010/167/EU
+ECC/DEC/(06)07
+ECC/DEC/(06)13
+ECC/DEC/(08)08
+ECC/DEC/(22)01
+164	166	Landmobil radio	172 - 174	
+164	166	PMR	172 - 174	
+18 710	19 700	Fast radio	17700 - 18690	
+Kanalplan
+ERC/REC 12-03
+ERC/DEC/(00)07
+1 710	1 785	MFCN	1805 - 1880	
+Blocktillstånd
+Undantag från tillståndsplikt
+Beslut 2008/294/EG, i lydelsen enligt beslut (EU) 2022/2324
+Rekommendation 2008/295/EG
+Beslut (EU) 2022/173
+Beslut (EU) 2024/340
+Rekommendation 2010/167/EU
+ECC/DEC/(06)07
+ECC/DEC/(06)13
+ECC/DEC/(08)08
+ECC/DEC/(22)01
+17 700	18 690	Fast radio	18710 - 19700	
+Kanalplan
+ERC/REC 12-03
+ERC/DEC/(00)07
+2 110	2 170	MFCN	1920 - 1980	
+Blocktillstånd
+Undantag från tillståndsplikt
+Beslut 2008/294/EG, i lydelsen enligt beslut (EU) 2022/2324
+Beslut (EU) 2024/340
+Rekommendation 2010/167/EU
+Beslut 2012/688/EU, i lydelsen enligt beslut (EU) 2020/667
+ECC/DEC/(06)01
+ECC/DEC/(06)07
+ECC/DEC/(08)08
+ECC/DEC/(22)01
+1 920	1 980	MFCN	2110 - 2170	
+Blocktillstånd
+Undantag från tillståndsplikt
+Beslut 2008/294/EG, i lydelsen enligt beslut (EU) 2022/2324
+Beslut (EU) 2024/340
+Rekommendation 2010/167/EU
+Beslut 2012/688/EU, i lydelsen enligt beslut (EU) 2020/667
+Beslut (EU) 2024/340
+ECC/DEC/(06)01
+ECC/DEC/(06)07
+ECC/DEC/(08)08
+ECC/DEC/(22)01
+23 000	23 600	Fast radio	22000 - 22600	
+Kanalplan
+ERC/REC T/R 13-02, Annex 1
+22 000	22 600	Fast radio	23000 - 23600	
+Kanalplan
+ERC/REC T/R 13-02, Annex 1
+25 557	26 453	Fast radio	24549 - 25445	
+Kanalplan
+ERC/REC T/R 13-02, Annex 2
+24 549	25 445	Fast radio	25557 - 26453	
+Kanalplan
+ERC/REC T/R 13-02, Annex 2
+28 948,5	29 172,5	MFCN	27940,5 - 28164,5	
+Blocktillstånd
+29 172,5	29 452,5	Fast radio	28164,5 - 28444,5	
+kanalplan ERC/REC T/R 13-02, Annex 3
+ECC/DEC/(05)01
+27 940,5	28 164,5	MFCN	28948,5 - 29172,5	
+Blocktillstånd
+28 164,5	28 444,5	Fast radio	29172,5 - 29452,5	
+kanalplan ERC/REC T/R 13-02, Annex 3
+ECC/DEC/(05)01
+32 627	33 383	Fast radio	31815 - 32571	
+Kanalplan
+ERC/REC (01)02
+31 815	32 571	Fast radio	32627 - 33383	
+Kanalplan
+ERC/REC (01)02
+386	387	Fast radio	370 - 371	
+Svensk kanalplan
+Smalbandig
+38 318	39 438	Fast radio	37058 - 38178	
+Kanalplan
+ERC/REC T/R 12-01
+390	395	Landmobil radio	380 - 385	
+Blocktillstånd
+Rakel
+ECC/DEC/(08)05
+ECC/DEC/(06)05
+ERC/DEC/(01)19
+390	395	TETRA	380 - 385	
+Blocktillstånd
+Rakel
+ECC/DEC/(08)05
+ECC/DEC/(06)05
+ERC/DEC/(01)19
+37 058	38 178	Fast radio	38318 - 39438	
+Kanalplan
+ERC/REC T/R 12-01
+370	371	Fast radio	386 - 387	
+Svensk kanalplan
+Smalbandig
+380	385	TETRA	390 - 395	
+Blocktillstånd
+Rakel
+ECC/DEC/(08)05
+ECC/DEC/(06)05
+ERC/DEC/(01)19
+380	385	Landmobil radio	390 - 395	
+Blocktillstånd
+Rakel
+ECC/DEC/(08)05
+ECC/DEC/(06)05
+ERC/DEC/(01)19
+420	430	TETRA	410 - 420	
+420	430	PMR	410 - 420	
+ECC/DEC/(19)02
+420	430	Landmobil radio	410 - 420	
+ECC/DEC/(19)02
+410	420	Landmobil radio	420 - 430	
+ECC/DEC/(19)02
+410	420	PMR	420 - 430	
+ECC/DEC/(19)02
+410	420	TETRA	420 - 430	
+448	450	Landmobil radio	442 - 444	
+ECC/DEC/(19)02
+448	450	PMR	442 - 444	
+ECC/DEC/(19)02
+442	444	Landmobil radio	448 - 450	
+ECC/DEC/(19)02
+442	444	PMR	448 - 450	
+ECC/DEC/(19)02
+460	462,5	PMR	450 - 452,5	
+ECC/DEC/(19)02
+460	462,5	Landmobil radio	450 - 452,5	
+ECC/DEC/(19)02
+462,5	467,5	MFCN	452,5 - 457,5	
+Blocktillstånd
+467,5	470	Landmobil radio	457,5 - 460	
+ECC/DEC/(19)02
+467,5	470	PMR	457,5 - 460	
+ECC/DEC/(19)02
+467,5125	467,5875	Kommunikation ombord på fartyg	457,5125 - 457,5875	
+450	452,5	PMR	460 - 462,5	
+ECC/DEC/(19)02
+452,5	457,5	MFCN	462,5 - 467,5	
+Blocktillstånd
+457,5	460	PMR	467,5 - 470	
+ECC/DEC/(19)02
+457,5125	457,5875	Kommunikation ombord på fartyg	467,5125 - 467,5875	
+6 182	6 420	Fast radio	5930 - 6168	
+Kanalplan
+ERC/REC 14-01
+5 930	6 168	Fast radio	6182 - 6420	
+Kanalplan
+ERC/REC 14-01
+6 770	7 125	Fast radio	6425 - 6760	
+Kanalplan
+ERC/REC 14-02
+6 425	6 760	Fast radio	6770 - 7125	
+Kanalplan
+ERC/REC 14-02
+81 000	86 000	Fast radio	71000 - 76000	
+ECC/REC/(05)07
+7 581,1	7 722	Fast radio	7427,1 - 7568	
+Kanalplan
+ECC/REC (02)06, Annex 1
+80,625	82,475	PMR	75,625 - 77,475	
+ECC/DEC/(19)02
+80,625	82,475	Landmobil radio	75,625 - 77,475	
+ECC/DEC/(19)02
+7 427,1	7 568	Fast radio	7581,1 - 7722	
+Kanalplan
+ECC/REC (02)06, Annex 1
+8 210	8 495	Fast radio	7900 - 8185	
+Kanalplan
+ECC/REC (02)06, Annex 2
+75,625	77,475	PMR	80,625 - 82,475	
+ECC/DEC/(19)02
+75,625	77,475	Landmobil radio	80,625 - 82,475	
+ECC/DEC/(19)02
+71 000	76 000	Fast radio	81000 - 86000	
+ECC/REC/(05)07
+7 900	8 185	Fast radio	8210 - 8495	
+Kanalplan
+ECC/REC (02)06, Annex 2
+919,4	925	Mobil radio för järnväg (RMR)	874,4 - 880	
+Beslut (EU) 2021/1730
+ECC/DEC/(20)02
+925	960	MFCN	880 - 915	
+Blocktillstånd
+Undantag från tillståndsplikt
+Direktiv 87/372/EEG, i lydelsen enligt direktiv 2009/114/EG
+Beslut (EU) 2022/173
+Beslut (EU) 2024/340
+Rekommendation 2010/167/EU
+ERC/DEC/(97)02
+ECC/DEC/(06)13
+ECC/DEC/(08)08
+ECC/DEC/(22)01
+874,4	880	Mobil radio för järnväg (RMR)	919,4 - 925	
+Beslut (EU) 2021/1730
+ECC/DEC/(20)02
+880	915	MFCN	925 - 960	
+Blocktillstånd
+Undantag från tillståndsplikt
+Direktiv 87/372/EEG, i lydelsen enligt direktiv 2009/114/EG
+Beslut (EU) 2022/173
+Beslut (EU) 2024/340
+Rekommendation 2010/167/EU
+ERC/DEC/(97)02
+ECC/DEC/(06)13
+ECC/DEC/(08)08
+ECC/DEC/(22)01
+Sida 1 av 1
+«First
+‹Previous
+1(current)
+›Next
+»Last
+Sidstorlek:
+
+Alla
+Säker och tillgänglig kommunikation för Sverige
+
+E-tjänster
+Kontakta oss
+Personuppgifter
+Tillgänglighet
+Kakor
