@@ -19,7 +19,7 @@ def index():
         None
 
     Returns:
-        "render_template("index.html")"
+        "render_template("index.html")": 
 
     """
     return render_template("index.html")
@@ -33,17 +33,25 @@ PTS_JSON_URL = "https://frekvensplanen.pts.se/PASTE_API_URL_HERE"
 def pts_proxy():
 
     """
+    Fetches the JSON data from the PTS API and returns it to the browser.
+
+    Arguments:
+        None
+
+    Returns:
+        "jsonify(r.json())":
+        "jsonify({"error": str(e)}), 502": 
+
     """
 
     try: # Try to...
         r = requests.get(PTS_JSON_URL, timeout = 10) # Fetch the JSON from PTS (with a 10 second timeout)
         r.raise_for_status() # Raise an error if the HTTP response wasn't "200 OK" (HTTP status code which means that the request succeeded)
+        print("Status code from PTS:", r.status_code) # Print the status code to the console
         return jsonify(r.json()) # Send the JSON data back to the browser
     
     except Exception as e: # If that doesn't work:
         return jsonify({"error": str(e)}), 502 # Return an error in JSON format with the status code "502" (which means "bad gateway")
 
-if __name__ == "__main__":
-    # For local-only: host='127.0.0.1'
-    # To make available on your LAN (other devices on same network), use host='0.0.0.0'
+if __name__ == "__main__": # If app.py is run directly (i.e not imported as a module in another file):
     app.run(host = "127.0.0.1", port = 5000, debug = True)
