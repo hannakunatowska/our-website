@@ -6,7 +6,7 @@
     <meta charset = "UTF-8"> <!-- Sets the character encoding to UTF-8 -->
     <meta name = "viewport" content = "width = device-width, initial-scale = 1.0"> <!-- Ensures proper scaling on mobile devices -->
     <title>Swedish frequency bands</title> <!-- Sets the title of the page to "Swedish frequency bands" -->
-    <link rel = "stylesheet" href = "style.css"> <!-- Links to an external CSS file for styling -->
+    <link rel = "stylesheet" href = "style.css"> <!-- Links to "style.css" for styling -->
 
 </head>
 
@@ -54,17 +54,6 @@
       </aside>
     </div>
   </main>
-
-  <script id = "pts-data" type = "application/json"> 
-  [
-    {"id":"hf","name":"HF (Shortwave)","start_mhz":3,"end_mhz":30,"uses":["Maritime HF","Amateur radio","Shortwave broadcasting"],"notes":"Long-range communications; see PTS for exact allocations."},
-    {"id":"vhf","name":"VHF","start_mhz":30,"end_mhz":300,"uses":["FM broadcast","Aviation VHF","Marine VHF","Land mobile"],"notes":"Used for FM radio, aviation, maritime and LMR."},
-    {"id":"uhf","name":"UHF","start_mhz":300,"end_mhz":3000,"uses":["TV broadcasting","Mobile (3G/4G/5G)","Land mobile"],"notes":"Large band used for many services."},
-    {"id":"ism24","name":"2.4 GHz (ISM)","start_mhz":2400,"end_mhz":2483.5,"uses":["Wi-Fi (legacy)","Bluetooth","IoT"],"notes":"ISM band — license-free use within technical limits."},
-    {"id":"ism5","name":"5 GHz (UNII)","start_mhz":5150,"end_mhz":5850,"uses":["Wi-Fi 5/6/6E","Radar (some subbands)"],"notes":"Multiple subbands — power and DFS rules apply."},
-    {"id":"mmwave","name":"mmWave (24–40 GHz)","start_mhz":24000,"end_mhz":40000,"uses":["5G FR2","Fixed links","Experimental"],"notes":"High capacity, short range."}
-  ]
-  </script>
 
   <script src = "static/script.js"></script> <!-- Links to file "script.js" that handles for example rendering band cards and timeline bars, filtering search and highlighting selected bands -->
 
