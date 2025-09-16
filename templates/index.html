@@ -1,8 +1,71 @@
 <!doctype html> <!-- Sets the document type to HTML -->
 <html lang = "en"> <!-- Sets the language of the document to English -->
 
-<head> <!-- Head section of the HTML document -->
+<head> <!-- Head section -->
+
     <meta charset = "UTF-8"> <!-- Sets the character encoding to UTF-8 -->
     <meta name = "viewport" content = "width = device-width, initial-scale = 1.0"> <!-- Ensures proper scaling on mobile devices -->
     <title>Swedish frequency bands</title> <!-- Sets the title of the page to "Swedish frequency bands" -->
     <link rel = "stylesheet" href = "style.css"> <!-- Links to an external CSS file for styling -->
+
+</head>
+
+<body> <!-- Body section (everything the user sees) -->
+
+  <header> <!-- Top section of the page -->
+
+    <div style = "width: 50px; height: 50px; background: linear-gradient(90deg, #7dd3fc, #60a5fa); border-radius: 12px; display: flex; align-items: center; justify-content: center; font-weight: 700; color: #04233a; font-size: 18px" > SE </div> <!-- Creates container with gradient background and centered text "SE" -->
+    
+    <div> <!-- Creates container -->
+      <h1>Swedish frequency bands</h1> <!-- Creates heading saying "Swedish frequency bands" -->
+      <div style = "color: var(--muted); font-size: 14px" > Data source: PTS frekvensplanen (replace the demo data with actual export) </div> <!-- Creates container with subtitle explaning the data source -->
+    </div> <!-- End of container-->
+
+  </header> <!-- End of header section -->
+
+  <main class = "wrap"> <!-- Main content area (the class "wrap" controls layout and max-width)-->
+
+    <div class = "controls"> <!-- Controls section for search and demo info -->
+      <div class = "search"> <input id = "filter" type = "search" placeholder = "🔎 Search by band, use or MHz (example: 2400 or 'wifi')"> </div> <!-- Search input field with placeholder text -->
+      <div style = "min-width:160px;text-align:right;color:var(--muted)" > Demo — replace data with official PTS export </div> <!-- Text indicating this is a demo and the data should be replaced with official PTS export -->
+    </div> <!-- End of controls section -->
+
+    <div class = "grid"> <!-- Creates container with  -->
+      <section class = "panel"> 
+        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px">
+          <strong>Bands list</strong>
+          <div class="meta">Click a band to highlight on the timeline</div>
+        </div>
+
+        <div class="bands" id="bandsContainer">
+          <!-- cards inserted here -->
+        </div>
+
+        <footer id="foot"></footer>
+      </section>
+
+      <aside class="panel">
+        <strong style="display:block;margin-bottom:10px">Frequency timeline (MHz)</strong>
+        <div class="timeline" id="timeline">
+          <button class="fullscreen-btn" id="fullscreenBtn">⛶ Fullscreen</button>
+          <!-- SVG timeline -->
+        </div>
+        <div class="legend" id="legend"></div>
+      </aside>
+    </div>
+  </main>
+
+  <script id="pts-data" type="application/json">
+  [
+    {"id":"hf","name":"HF (Shortwave)","start_mhz":3,"end_mhz":30,"uses":["Maritime HF","Amateur radio","Shortwave broadcasting"],"notes":"Long-range communications; see PTS for exact allocations."},
+    {"id":"vhf","name":"VHF","start_mhz":30,"end_mhz":300,"uses":["FM broadcast","Aviation VHF","Marine VHF","Land mobile"],"notes":"Used for FM radio, aviation, maritime and LMR."},
+    {"id":"uhf","name":"UHF","start_mhz":300,"end_mhz":3000,"uses":["TV broadcasting","Mobile (3G/4G/5G)","Land mobile"],"notes":"Large band used for many services."},
+    {"id":"ism24","name":"2.4 GHz (ISM)","start_mhz":2400,"end_mhz":2483.5,"uses":["Wi-Fi (legacy)","Bluetooth","IoT"],"notes":"ISM band — license-free use within technical limits."},
+    {"id":"ism5","name":"5 GHz (UNII)","start_mhz":5150,"end_mhz":5850,"uses":["Wi-Fi 5/6/6E","Radar (some subbands)"],"notes":"Multiple subbands — power and DFS rules apply."},
+    {"id":"mmwave","name":"mmWave (24–40 GHz)","start_mhz":24000,"end_mhz":40000,"uses":["5G FR2","Fixed links","Experimental"],"notes":"High capacity, short range."}
+  ]
+  </script>
+
+  <script src="static/main.js"></script>
+</body>
+</html>
