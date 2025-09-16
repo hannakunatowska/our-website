@@ -1,8 +1,60 @@
 
- /* Root setup */
+/* --- Root --- */
 
 root{
       --bg: #0f1724; --card: #0b1220; --muted: #9aa4b2; --accent: #5eead4;
-      --glass: rgba(255,255,255,0.03);
+      --glass: rgba(255, 255, 255, 0.03);
       font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-    }
+    } /* Sets root CSS variables for colors and font family */
+
+*{box-sizing: border-box} /* Sets the box-sizing method to "border-box" for all elements (makes the total width include padding and border which makes sizing easier) */
+
+/* --- Body --- */
+
+body{margin: 0; background: linear-gradient(180deg, #071025 0%, #0f1724 100%); color: #e6eef6; min-height: 100vh} /* Sets the main body background and text color */
+
+/* --- Header --- */
+
+header{padding: 28px 20px 10px; display: flex; align-items: center; gap: 16px} /* Sets the header style with padding, flexbox alignment and spacing */
+
+header h1{margin: 0; font-size: 22px; letter-spacing: -0.4px} /* Sets the main title style with no margin, specific font size and letter spacing */
+
+.wrap{max-width: 1400px; margin: 18px auto; padding: 0 18px} /* Sets the maximum width of the main content area, centers it and adds padding */
+
+.controls{display: flex; gap: 12px; align-items: center; margin-bottom: 16px} /* Sets the controls section with flexbox for alignment and spacing */
+
+.search{flex: 1} /* Sets the search input to take up available space */
+
+input[type = search]{width: 100%; padding: 12px 14px; border-radius: 12px; border: 0; background: var(--card); color: inherit; font-size: 15px} /* Sets the search input style with padding, border radius, background color and font size */
+
+.grid{display: grid; grid-template-columns: 1fr 2fr; gap: 20px} /* Sets the grid layout for the main content area with two columns */
+
+.panel{background: linear-gradient(180deg, rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0.01)); padding: 18px; border-radius: 14px; box-shadow: 0 6px 24px rgba(2, 6, 23, 0.6)} /* Sets the panel background, padding, border radius and shadow */
+
+/* Frequency band cards */
+
+.bands{display: grid; grid-template-columns: 1fr; gap: 14px; max-height: 80vh; overflow-y: auto; padding-right: 8px} /* Sets the bands section as a grid with one column, spacing, maximum height and overflow handling */
+
+.band{padding: 12px 14px; border-radius: 12px; background: var(--glass); border: 1px solid rgba(255, 255, 255, 0.05); transition: background 0.2s} /* Sets the band card style with padding, border radius, background color, border and transition effect */
+
+.band:hover{background: rgba(255, 255, 255, 0.05)} /* Changes the background color on hover for the band card */
+
+.band h3{margin: 0 0 6px; font-size: 15px} /* Sets the band title style with no margin and specific font size */
+
+.meta{font-size: 13px; color: var(--muted)} /* Sets the metadata text style with specific font size and muted color */
+
+.timeline{height: 480px; background: linear-gradient(180deg, rgba(255, 255, 255, 0.01), transparent); display: flex; align-items: center; justify-content: center; border-radius: 12px; padding: 12px; overflow: auto; position: relative} /* Sets the timeline style with height, background gradient, flexbox alignment, border radius, padding and overflow handling */
+
+svg{width: 100%; height: 100%} /* Sets the SVG element to fill the timeline area */
+
+.legend{display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px} /* Sets the legend section with flexbox for wrapping, spacing and margin */
+
+.legend .item{font-size: 13px; color: var(--muted); padding: 6px 10px; border-radius: 8px; background: rgba(255, 255, 255, 0.03)}
+
+.fullscreen-btn{position: absolute; top: 10px; right: 10px; background: rgba(0, 0, 0, 0.4); border: 0; border-radius: 6px; color: white; padding: 6px 10px; cursor: pointer; font-size: 12px}
+
+.fullscreen-btn:hover{background: rgba(0, 0, 0, 0.6)} /* Changes the background color on hover for the fullscreen button */
+
+footer{color: var(--muted); font-size: 13px; margin-top: 12px} /* Sets the footer style with muted color and font size */
+
+@media(max-width: 900px){.grid{grid-template-columns: 1fr}.bands{max-height: none}} /* Adjusts the grid layout and bands section for smaller screens */

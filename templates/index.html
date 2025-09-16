@@ -26,36 +26,36 @@
   <main class = "wrap"> <!-- Main content area (the class "wrap" controls layout and max-width)-->
 
     <div class = "controls"> <!-- Controls section for search and demo info -->
-      <div class = "search"> <input id = "filter" type = "search" placeholder = "🔎 Search by band, use or MHz (example: 2400 or 'wifi')"> </div> <!-- Search input field with placeholder text -->
-      <div style = "min-width:160px;text-align:right;color:var(--muted)" > Demo — replace data with official PTS export </div> <!-- Text indicating this is a demo and the data should be replaced with official PTS export -->
+      <div class = "search"> <input id = "filter" type = "search" placeholder = "🔎 Search by band, use or MHz"> </div> <!-- Search input field with placeholder text -->
+      <div style = "min-width: 160px; text-align: right; color: var(--muted)" > Demo — replace data with official PTS export </div> <!-- Text indicating this is a demo and the data should be replaced with official PTS export -->
     </div> <!-- End of controls section -->
 
-    <div class = "grid"> <!-- Creates container with  -->
-      <section class = "panel"> 
-        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px">
-          <strong>Bands list</strong>
-          <div class="meta">Click a band to highlight on the timeline</div>
+    <div class = "grid"> <!-- Creates container with class "grid" -->
+      <section class = "panel"> <!-- Column for displaying frequency bands -->
+        <div style = "display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px"> 
+          <strong>Bands list</strong> 
+          <div class = "meta">Click a band to highlight on the timeline</div>
         </div>
 
-        <div class="bands" id="bandsContainer">
+        <div class = "bands" id = "bandsContainer">
           <!-- cards inserted here -->
         </div>
 
-        <footer id="foot"></footer>
+        <footer id = "foot"></footer>
       </section>
 
-      <aside class="panel">
-        <strong style="display:block;margin-bottom:10px">Frequency timeline (MHz)</strong>
-        <div class="timeline" id="timeline">
-          <button class="fullscreen-btn" id="fullscreenBtn">⛶ Fullscreen</button>
+      <aside class = "panel">
+        <strong style = "display: block; margin-bottom: 10px">Frequency timeline (MHz)</strong>
+        <div class = "timeline" id = "timeline">
+          <button class = "fullscreen-btn" id = "fullscreenBtn">⛶ Fullscreen</button>
           <!-- SVG timeline -->
         </div>
-        <div class="legend" id="legend"></div>
+        <div class = "legend" id = "legend"></div>
       </aside>
     </div>
   </main>
 
-  <script id="pts-data" type="application/json">
+  <script id = "pts-data" type = "application/json"> 
   [
     {"id":"hf","name":"HF (Shortwave)","start_mhz":3,"end_mhz":30,"uses":["Maritime HF","Amateur radio","Shortwave broadcasting"],"notes":"Long-range communications; see PTS for exact allocations."},
     {"id":"vhf","name":"VHF","start_mhz":30,"end_mhz":300,"uses":["FM broadcast","Aviation VHF","Marine VHF","Land mobile"],"notes":"Used for FM radio, aviation, maritime and LMR."},
@@ -66,6 +66,8 @@
   ]
   </script>
 
-  <script src="static/main.js"></script>
-</body>
-</html>
+  <script src = "static/script.js"></script> <!-- Links to file "script.js" that handles for example rendering band cards and timeline bars, filtering search and highlighting selected bands -->
+
+</body> <!-- End of body section -->
+
+</html> <!-- End of HTML section (the whole document)-->
