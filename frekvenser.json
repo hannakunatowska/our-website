@@ -1,0 +1,3662 @@
+[
+    {
+        "startfrekvens": "0",
+        "slutfrekvens": "0.009",
+        "användningsområde": "Övrigt"
+    },
+    {
+        "startfrekvens": "0.009",
+        "slutfrekvens": "0.014",
+        "användningsområde": "Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "0.009",
+        "slutfrekvens": "0.014",
+        "användningsområde": "Radionavigering för sjöfart"
+    },
+    {
+        "startfrekvens": "0.009",
+        "slutfrekvens": "0.1485",
+        "användningsområde": "Induktiva tillämpningar"
+    },
+    {
+        "startfrekvens": "0.009",
+        "slutfrekvens": "0.148",
+        "användningsområde": "Radiobestämning"
+    },
+    {
+        "startfrekvens": "0.009",
+        "slutfrekvens": "0.315",
+        "användningsområde": "Aktiva medicinska implantat"
+    },
+    {
+        "startfrekvens": "0.014",
+        "slutfrekvens": "0.01995",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "0.014",
+        "slutfrekvens": "0.01995",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "0.01995",
+        "slutfrekvens": "0.02005",
+        "användningsområde": "Standardfrekvens och tidssignal"
+    },
+    {
+        "startfrekvens": "0.02005",
+        "slutfrekvens": "0.07",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "0.02005",
+        "slutfrekvens": "0.07",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "0.1176",
+        "slutfrekvens": "0.126",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "0.129",
+        "slutfrekvens": "0.1485",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "0.1357",
+        "slutfrekvens": "0.1378",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "0.148",
+        "slutfrekvens": "5",
+        "användningsområde": "Radiobestämning"
+    },
+    {
+        "startfrekvens": "0.1485",
+        "slutfrekvens": "0.2835",
+        "användningsområde": "Rundradio"
+    },
+    {
+        "startfrekvens": "0.1485",
+        "slutfrekvens": "5",
+        "användningsområde": "Induktiva tillämpningar"
+    },
+    {
+        "startfrekvens": "0.2835",
+        "slutfrekvens": "0.315",
+        "användningsområde": "Radionavigering för sjöfart"
+    },
+    {
+        "startfrekvens": "0.2835",
+        "slutfrekvens": "0.415",
+        "användningsområde": "Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "0.2835",
+        "slutfrekvens": "0.415",
+        "användningsområde": "Radiofyrar för luftfart"
+    },
+    {
+        "startfrekvens": "0.2835",
+        "slutfrekvens": "0.315",
+        "användningsområde": "Radiofyrar för sjöfart"
+    },
+    {
+        "startfrekvens": "0.4",
+        "slutfrekvens": "0.6",
+        "användningsområde": "RFID"
+    },
+    {
+        "startfrekvens": "0.4065",
+        "slutfrekvens": "0.4135",
+        "användningsområde": "Radionavigering för sjöfart"
+    },
+    {
+        "startfrekvens": "0.415",
+        "slutfrekvens": "0.435",
+        "användningsområde": "Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "0.415",
+        "slutfrekvens": "0.435",
+        "användningsområde": "Radiofyrar för luftfart"
+    },
+    {
+        "startfrekvens": "0.415",
+        "slutfrekvens": "0.495",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "0.4422",
+        "slutfrekvens": "0.45",
+        "användningsområde": "Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "0.4569",
+        "slutfrekvens": "0.4571",
+        "användningsområde": "Lokalisering av nödställda"
+    },
+    {
+        "startfrekvens": "0.495",
+        "slutfrekvens": "0.505",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "0.495",
+        "slutfrekvens": "0.5265",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "0.516",
+        "slutfrekvens": "8.516",
+        "användningsområde": "Tillämpningar för järnväg"
+    },
+    {
+        "startfrekvens": "0.51775",
+        "slutfrekvens": "0.51825",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "0.5265",
+        "slutfrekvens": "1.6065",
+        "användningsområde": "Rundradio"
+    },
+    {
+        "startfrekvens": "0.984",
+        "slutfrekvens": "7.484",
+        "användningsområde": "Eurobalise"
+    },
+    {
+        "startfrekvens": "1.6065",
+        "slutfrekvens": "1.625",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "1.625",
+        "slutfrekvens": "1.635",
+        "användningsområde": "Radiolokalisering"
+    },
+    {
+        "startfrekvens": "1.635",
+        "slutfrekvens": "1.8",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "1.8",
+        "slutfrekvens": "1.81",
+        "användningsområde": "Radiolokalisering"
+    },
+    {
+        "startfrekvens": "1.81",
+        "slutfrekvens": "1.85",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "1.85",
+        "slutfrekvens": "2",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "1.85",
+        "slutfrekvens": "2.045",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "1.85",
+        "slutfrekvens": "2.045",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "1.85",
+        "slutfrekvens": "2.045",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "2.045",
+        "slutfrekvens": "2.16",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "2.16",
+        "slutfrekvens": "2.17",
+        "användningsområde": "Radiolokalisering"
+    },
+    {
+        "startfrekvens": "2.17",
+        "slutfrekvens": "2.1735",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "2.1735",
+        "slutfrekvens": "2.1905",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "2.1905",
+        "slutfrekvens": "2.498",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "2.194",
+        "slutfrekvens": "2.498",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "2.194",
+        "slutfrekvens": "2.498",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "2.498",
+        "slutfrekvens": "2.502",
+        "användningsområde": "Standardfrekvens och tidssignal"
+    },
+    {
+        "startfrekvens": "2.502",
+        "slutfrekvens": "2.85",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "2.502",
+        "slutfrekvens": "2.625",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "2.502",
+        "slutfrekvens": "2.625",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "2.625",
+        "slutfrekvens": "2.65",
+        "användningsområde": "Radionavigering för sjöfart"
+    },
+    {
+        "startfrekvens": "2.65",
+        "slutfrekvens": "2.85",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "2.65",
+        "slutfrekvens": "2.85",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "2.85",
+        "slutfrekvens": "3.025",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "3.0215",
+        "slutfrekvens": "3.0245",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "3.025",
+        "slutfrekvens": "3.155",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "3.155",
+        "slutfrekvens": "3.4",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "3.155",
+        "slutfrekvens": "3.4",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "3.155",
+        "slutfrekvens": "3.4",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "3.5",
+        "slutfrekvens": "3.9",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "3.5",
+        "slutfrekvens": "3.9",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "3.5",
+        "slutfrekvens": "3.8",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "3.5",
+        "slutfrekvens": "3.8",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "3.8",
+        "slutfrekvens": "3.9",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "3.9",
+        "slutfrekvens": "3.95",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "3.95",
+        "slutfrekvens": "4",
+        "användningsområde": "Rundradio"
+    },
+    {
+        "startfrekvens": "3.95",
+        "slutfrekvens": "4.063",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "4",
+        "slutfrekvens": "4.063",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "4.063",
+        "slutfrekvens": "4.438",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "4.438",
+        "slutfrekvens": "4.65",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "4.438",
+        "slutfrekvens": "4.65",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "4.438",
+        "slutfrekvens": "4.65",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "4.65",
+        "slutfrekvens": "4.7",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "4.7",
+        "slutfrekvens": "4.75",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "4.75",
+        "slutfrekvens": "4.85",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "4.75",
+        "slutfrekvens": "4.995",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "4.75",
+        "slutfrekvens": "4.995",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "4.995",
+        "slutfrekvens": "5.005",
+        "användningsområde": "Standardfrekvens och tidssignal"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "27.5",
+        "användningsområde": "Induktiva tillämpningar"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "27.5",
+        "användningsområde": "Radiobestämning"
+    },
+    {
+        "startfrekvens": "5.005",
+        "slutfrekvens": "5.48",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "5.06",
+        "slutfrekvens": "5.45",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "5.06",
+        "slutfrekvens": "5.48",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "5.3515",
+        "slutfrekvens": "5.3665",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "5.45",
+        "slutfrekvens": "5.48",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "5.48",
+        "slutfrekvens": "5.68",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "5.6785",
+        "slutfrekvens": "5.6815",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "5.68",
+        "slutfrekvens": "5.73",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "5.73",
+        "slutfrekvens": "5.9",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "5.73",
+        "slutfrekvens": "5.9",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "5.9",
+        "slutfrekvens": "6.2",
+        "användningsområde": "Rundradio"
+    },
+    {
+        "startfrekvens": "6.2",
+        "slutfrekvens": "6.525",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "6.525",
+        "slutfrekvens": "6.685",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "6.685",
+        "slutfrekvens": "6.765",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "6.765",
+        "slutfrekvens": "7",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "6.765",
+        "slutfrekvens": "7",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "7",
+        "slutfrekvens": "7.2",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "7.2",
+        "slutfrekvens": "7.45",
+        "användningsområde": "Rundradio"
+    },
+    {
+        "startfrekvens": "7.3",
+        "slutfrekvens": "23",
+        "användningsområde": "Euroloop"
+    },
+    {
+        "startfrekvens": "7.45",
+        "slutfrekvens": "8.1",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "7.45",
+        "slutfrekvens": "8.195",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "8.1",
+        "slutfrekvens": "8.195",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "8.195",
+        "slutfrekvens": "8.815",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "8.815",
+        "slutfrekvens": "8.965",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "8.965",
+        "slutfrekvens": "9.04",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "9.04",
+        "slutfrekvens": "9.4",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "9.4",
+        "slutfrekvens": "9.9",
+        "användningsområde": "Rundradio"
+    },
+    {
+        "startfrekvens": "9.9",
+        "slutfrekvens": "9.995",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "9.995",
+        "slutfrekvens": "10.005",
+        "användningsområde": "Standardfrekvens och tidssignal"
+    },
+    {
+        "startfrekvens": "10.005",
+        "slutfrekvens": "10.1",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "10.1",
+        "slutfrekvens": "10.15",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "10.1",
+        "slutfrekvens": "11.175",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "10.15",
+        "slutfrekvens": "11.175",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "10.15",
+        "slutfrekvens": "11.175",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "11.275",
+        "slutfrekvens": "11.4",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "11.4",
+        "slutfrekvens": "11.6",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "11.6",
+        "slutfrekvens": "12.1",
+        "användningsområde": "Rundradio"
+    },
+    {
+        "startfrekvens": "12.1",
+        "slutfrekvens": "12.23",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "12.23",
+        "slutfrekvens": "13.2",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "13.2",
+        "slutfrekvens": "13.26",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "13.26",
+        "slutfrekvens": "13.36",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "13.36",
+        "slutfrekvens": "13.57",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "13.36",
+        "slutfrekvens": "13.41",
+        "användningsområde": "Radioastronomi"
+    },
+    {
+        "startfrekvens": "13.41",
+        "slutfrekvens": "13.57",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "13.41",
+        "slutfrekvens": "13.57",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "13.553",
+        "slutfrekvens": "13.567",
+        "användningsområde": "RFID"
+    },
+    {
+        "startfrekvens": "13.553",
+        "slutfrekvens": "13.567",
+        "användningsområde": "Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "13.87",
+        "slutfrekvens": "14",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "13.87",
+        "slutfrekvens": "14",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "13.87",
+        "slutfrekvens": "14",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "14",
+        "slutfrekvens": "14.35",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "14.35",
+        "slutfrekvens": "14.99",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "14.35",
+        "slutfrekvens": "14.99",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "14.35",
+        "slutfrekvens": "14.99",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "14.99",
+        "slutfrekvens": "15.01",
+        "användningsområde": "Standardfrekvens och tidssignal"
+    },
+    {
+        "startfrekvens": "15.01",
+        "slutfrekvens": "15.1",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "15.1",
+        "slutfrekvens": "15.8",
+        "användningsområde": "Rundradio"
+    },
+    {
+        "startfrekvens": "15.8",
+        "slutfrekvens": "16.36",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "16.36",
+        "slutfrekvens": "17.41",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "17.41",
+        "slutfrekvens": "17.48",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "17.48",
+        "slutfrekvens": "17.9",
+        "användningsområde": "Rundradio"
+    },
+    {
+        "startfrekvens": "17.9",
+        "slutfrekvens": "17.97",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "17.97",
+        "slutfrekvens": "18.03",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "18.03",
+        "slutfrekvens": "18.068",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "18.068",
+        "slutfrekvens": "18.168",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "18.168",
+        "slutfrekvens": "18.78",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "18.168",
+        "slutfrekvens": "18.78",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "18.168",
+        "slutfrekvens": "18.78",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "18.78",
+        "slutfrekvens": "18.9",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "18.9",
+        "slutfrekvens": "19.02",
+        "användningsområde": "Rundradio"
+    },
+    {
+        "startfrekvens": "19.02",
+        "slutfrekvens": "19.68",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "19.68",
+        "slutfrekvens": "19.8",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "19.8",
+        "slutfrekvens": "19.99",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "19.99",
+        "slutfrekvens": "20.01",
+        "användningsområde": "Standardfrekvens och tidssignal"
+    },
+    {
+        "startfrekvens": "20.01",
+        "slutfrekvens": "21",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "20.01",
+        "slutfrekvens": "21",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "21",
+        "slutfrekvens": "21.45",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "21.45",
+        "slutfrekvens": "21.85",
+        "användningsområde": "Rundradio"
+    },
+    {
+        "startfrekvens": "21.85",
+        "slutfrekvens": "21.924",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "21.924",
+        "slutfrekvens": "22",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "22",
+        "slutfrekvens": "22.855",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "22.855",
+        "slutfrekvens": "24.89",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "23",
+        "slutfrekvens": "23.2",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "23",
+        "slutfrekvens": "23.2",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "23.2",
+        "slutfrekvens": "23.35",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "23.35",
+        "slutfrekvens": "24",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "23.35",
+        "slutfrekvens": "24",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "24.89",
+        "slutfrekvens": "24.99",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "24.99",
+        "slutfrekvens": "25.01",
+        "användningsområde": "Standardfrekvens och tidssignal"
+    },
+    {
+        "startfrekvens": "25.01",
+        "slutfrekvens": "25.07",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "25.01",
+        "slutfrekvens": "25.07",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "25.01",
+        "slutfrekvens": "25.07",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "25.07",
+        "slutfrekvens": "25.21",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "25.21",
+        "slutfrekvens": "25.55",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "25.21",
+        "slutfrekvens": "25.55",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "25.21",
+        "slutfrekvens": "25.55",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "25.55",
+        "slutfrekvens": "25.67",
+        "användningsområde": "Radioastronomi"
+    },
+    {
+        "startfrekvens": "25.67",
+        "slutfrekvens": "26.1",
+        "användningsområde": "Rundradio"
+    },
+    {
+        "startfrekvens": "26.1",
+        "slutfrekvens": "26.175",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "26.175",
+        "slutfrekvens": "27.5",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "26.175",
+        "slutfrekvens": "28",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "26.175",
+        "slutfrekvens": "27.5",
+        "användningsområde": "Personsökning"
+    },
+    {
+        "startfrekvens": "26.82",
+        "slutfrekvens": "27.2",
+        "användningsområde": "Telemetri och radiostyrning"
+    },
+    {
+        "startfrekvens": "26.85",
+        "slutfrekvens": "26.86",
+        "användningsområde": "Larmöverföring"
+    },
+    {
+        "startfrekvens": "26.957",
+        "slutfrekvens": "27.283",
+        "användningsområde": "Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "26.99",
+        "slutfrekvens": "27",
+        "användningsområde": "Trådlösa barnvaktssystem"
+    },
+    {
+        "startfrekvens": "27.5",
+        "slutfrekvens": "30",
+        "användningsområde": "Induktiva tillämpningar"
+    },
+    {
+        "startfrekvens": "27.5",
+        "slutfrekvens": "30",
+        "användningsområde": "Radiobestämning"
+    },
+    {
+        "startfrekvens": "28",
+        "slutfrekvens": "29.7",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "29.7",
+        "slutfrekvens": "37.5",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "30",
+        "slutfrekvens": "130",
+        "användningsområde": "Radiobestämning"
+    },
+    {
+        "startfrekvens": "30",
+        "slutfrekvens": "37.5",
+        "användningsområde": "Aktiva medicinska implantat"
+    },
+    {
+        "startfrekvens": "30.015",
+        "slutfrekvens": "30.025",
+        "användningsområde": "Telemetri och radiostyrning"
+    },
+    {
+        "startfrekvens": "30.265",
+        "slutfrekvens": "30.355",
+        "användningsområde": "Telemetri och radiostyrning"
+    },
+    {
+        "startfrekvens": "30.925",
+        "slutfrekvens": "31.375",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "34.995",
+        "slutfrekvens": "35.275",
+        "användningsområde": "Radiostyrning av modellflygplan"
+    },
+    {
+        "startfrekvens": "37.5",
+        "slutfrekvens": "41.015",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "37.5",
+        "slutfrekvens": "38.25",
+        "användningsområde": "Radioastronomi"
+    },
+    {
+        "startfrekvens": "39.525",
+        "slutfrekvens": "39.55",
+        "användningsområde": "Telemetri och radiostyrning"
+    },
+    {
+        "startfrekvens": "40.45",
+        "slutfrekvens": "40.575",
+        "användningsområde": "Telemetri och radiostyrning"
+    },
+    {
+        "startfrekvens": "40.66",
+        "slutfrekvens": "40.8",
+        "användningsområde": "Telemetri och radiostyrning"
+    },
+    {
+        "startfrekvens": "40.66",
+        "slutfrekvens": "40.7",
+        "användningsområde": "Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "50",
+        "slutfrekvens": "52",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "68",
+        "slutfrekvens": "74.8",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "68",
+        "slutfrekvens": "74.8",
+        "användningsområde": "PMR"
+    },
+    {
+        "startfrekvens": "69.6",
+        "slutfrekvens": "69.725",
+        "användningsområde": "PMR"
+    },
+    {
+        "startfrekvens": "69.6",
+        "slutfrekvens": "69.725",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "73",
+        "slutfrekvens": "74.6",
+        "användningsområde": "Radioastronomi"
+    },
+    {
+        "startfrekvens": "74.8",
+        "slutfrekvens": "75.2",
+        "användningsområde": "Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "75.2",
+        "slutfrekvens": "75.625",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "75.2",
+        "slutfrekvens": "75.625",
+        "användningsområde": "PMR"
+    },
+    {
+        "startfrekvens": "77.475",
+        "slutfrekvens": "80.625",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "77.475",
+        "slutfrekvens": "80.625",
+        "användningsområde": "PMR"
+    },
+    {
+        "startfrekvens": "82.475",
+        "slutfrekvens": "87.5",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "82.475",
+        "slutfrekvens": "87.5",
+        "användningsområde": "PMR"
+    },
+    {
+        "startfrekvens": "87.5",
+        "slutfrekvens": "108",
+        "användningsområde": "FM analog ljudradio"
+    },
+    {
+        "startfrekvens": "87.5",
+        "slutfrekvens": "108",
+        "användningsområde": "Ljudöverföring"
+    },
+    {
+        "startfrekvens": "87.5",
+        "slutfrekvens": "108",
+        "användningsområde": "Rundradio"
+    },
+    {
+        "startfrekvens": "108",
+        "slutfrekvens": "117.975",
+        "användningsområde": "Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "117.975",
+        "slutfrekvens": "137",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "121.45",
+        "slutfrekvens": "121.55",
+        "användningsområde": "Luftfartsradio (ELT)"
+    },
+    {
+        "startfrekvens": "121.45",
+        "slutfrekvens": "121.55",
+        "användningsområde": "Personlig radio (PLB)"
+    },
+    {
+        "startfrekvens": "121.45",
+        "slutfrekvens": "121.55",
+        "användningsområde": "Sjöfartsradio (EPIRB)"
+    },
+    {
+        "startfrekvens": "137",
+        "slutfrekvens": "138",
+        "användningsområde": "Satellit"
+    },
+    {
+        "startfrekvens": "138",
+        "slutfrekvens": "143.6",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "138",
+        "slutfrekvens": "162.025",
+        "användningsområde": "Militär användning"
+    },
+    {
+        "startfrekvens": "144",
+        "slutfrekvens": "146",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "147",
+        "slutfrekvens": "149.9",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "148",
+        "slutfrekvens": "150.05",
+        "användningsområde": "Jordstationer (mobila satellitsystem)"
+    },
+    {
+        "startfrekvens": "150.05",
+        "slutfrekvens": "153",
+        "användningsområde": "Radioastronomi"
+    },
+    {
+        "startfrekvens": "151",
+        "slutfrekvens": "153",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "151.52",
+        "slutfrekvens": "151.555",
+        "användningsområde": "Spårning. pejling och datainsamling"
+    },
+    {
+        "startfrekvens": "151.52",
+        "slutfrekvens": "152.2675",
+        "användningsområde": "Radiopejling av djur"
+    },
+    {
+        "startfrekvens": "154",
+        "slutfrekvens": "155.9875",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "154",
+        "slutfrekvens": "155.9875",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "155.3875",
+        "slutfrekvens": "155.5375",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "155.9875",
+        "slutfrekvens": "156.0125",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "156.2875",
+        "slutfrekvens": "156.3125",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.3625",
+        "slutfrekvens": "156.3875",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.3875",
+        "slutfrekvens": "156.4375",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.4375",
+        "slutfrekvens": "156.4625",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.4625",
+        "slutfrekvens": "156.4875",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.4875",
+        "slutfrekvens": "156.5125",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.4875",
+        "slutfrekvens": "156.7625",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "156.5125",
+        "slutfrekvens": "156.5375",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.5375",
+        "slutfrekvens": "156.5625",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.5625",
+        "slutfrekvens": "156.6125",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.6125",
+        "slutfrekvens": "156.6375",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.6375",
+        "slutfrekvens": "156.6625",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.6625",
+        "slutfrekvens": "156.6875",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.6875",
+        "slutfrekvens": "156.7375",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.7375",
+        "slutfrekvens": "156.7625",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.7625",
+        "slutfrekvens": "156.7875",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.7875",
+        "slutfrekvens": "156.8125",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.8125",
+        "slutfrekvens": "156.8375",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.8375",
+        "slutfrekvens": "156.8625",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "156.8375",
+        "slutfrekvens": "158.075",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "156.8375",
+        "slutfrekvens": "158.075",
+        "användningsområde": "PMR"
+    },
+    {
+        "startfrekvens": "156.8625",
+        "slutfrekvens": "156.8875",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "157.1875",
+        "slutfrekvens": "157.3375",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "157.3375",
+        "slutfrekvens": "157.4375",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "160.6125",
+        "slutfrekvens": "162.0375",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "160.6125",
+        "slutfrekvens": "162.0375",
+        "användningsområde": "PMR"
+    },
+    {
+        "startfrekvens": "160.8875",
+        "slutfrekvens": "160.9125",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "161.7875",
+        "slutfrekvens": "161.9375",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "161.9375",
+        "slutfrekvens": "161.9625",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "161.9625",
+        "slutfrekvens": "161.9875",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "161.9875",
+        "slutfrekvens": "162.0125",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "162.0125",
+        "slutfrekvens": "162.0375",
+        "användningsområde": "Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "166",
+        "slutfrekvens": "166.075",
+        "användningsområde": "PMR"
+    },
+    {
+        "startfrekvens": "166",
+        "slutfrekvens": "166.075",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "168.625",
+        "slutfrekvens": "170.025",
+        "användningsområde": "PMR"
+    },
+    {
+        "startfrekvens": "168.625",
+        "slutfrekvens": "170.025",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "168.625",
+        "slutfrekvens": "170.025",
+        "användningsområde": "Personsökning"
+    },
+    {
+        "startfrekvens": "169.375",
+        "slutfrekvens": "169.4",
+        "användningsområde": "Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "169.4",
+        "slutfrekvens": "169.8125",
+        "användningsområde": "Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "169.4",
+        "slutfrekvens": "169.475",
+        "användningsområde": "Hörselhjälpmedel"
+    },
+    {
+        "startfrekvens": "169.4875",
+        "slutfrekvens": "169.5875",
+        "användningsområde": "Hörselhjälpmedel"
+    },
+    {
+        "startfrekvens": "173.965",
+        "slutfrekvens": "216",
+        "användningsområde": "Hörselhjälpmedel"
+    },
+    {
+        "startfrekvens": "174",
+        "slutfrekvens": "223",
+        "användningsområde": "Rundradio (T-DAB)"
+    },
+    {
+        "startfrekvens": "174",
+        "slutfrekvens": "240",
+        "användningsområde": "Ljudöverföring"
+    },
+    {
+        "startfrekvens": "223",
+        "slutfrekvens": "230",
+        "användningsområde": "Rundradio (T-DAB)"
+    },
+    {
+        "startfrekvens": "223",
+        "slutfrekvens": "230",
+        "användningsområde": "Rundradio (DVB-T)"
+    },
+    {
+        "startfrekvens": "230",
+        "slutfrekvens": "240",
+        "användningsområde": "Rundradio (T-DAB)"
+    },
+    {
+        "startfrekvens": "230",
+        "slutfrekvens": "386",
+        "användningsområde": "Militär användning"
+    },
+    {
+        "startfrekvens": "230.016",
+        "slutfrekvens": "236.544",
+        "användningsområde": "Radar"
+    },
+    {
+        "startfrekvens": "240",
+        "slutfrekvens": "267",
+        "användningsområde": "Luftfartsradio"
+    },
+    {
+        "startfrekvens": "242.95",
+        "slutfrekvens": "243.05",
+        "användningsområde": "SAR (kommunikation)"
+    },
+    {
+        "startfrekvens": "328.6",
+        "slutfrekvens": "335.4",
+        "användningsområde": "Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "336",
+        "slutfrekvens": "339",
+        "användningsområde": "Ljudlänkar"
+    },
+    {
+        "startfrekvens": "357",
+        "slutfrekvens": "360",
+        "användningsområde": "Ljudlänkar"
+    },
+    {
+        "startfrekvens": "387",
+        "slutfrekvens": "390",
+        "användningsområde": "Militär användning"
+    },
+    {
+        "startfrekvens": "395",
+        "slutfrekvens": "399.9",
+        "användningsområde": "Militär användning"
+    },
+    {
+        "startfrekvens": "399.9",
+        "slutfrekvens": "400.05",
+        "användningsområde": "Jordstationer (mobila satellitsystem)"
+    },
+    {
+        "startfrekvens": "400.05",
+        "slutfrekvens": "400.15",
+        "användningsområde": "Standardfrekvens och tidssignal via satellit"
+    },
+    {
+        "startfrekvens": "400.15",
+        "slutfrekvens": "404",
+        "användningsområde": "Meteorologi"
+    },
+    {
+        "startfrekvens": "400.15",
+        "slutfrekvens": "404",
+        "användningsområde": "Ballongburna radiosonder"
+    },
+    {
+        "startfrekvens": "400.15",
+        "slutfrekvens": "401",
+        "användningsområde": "Satellit"
+    },
+    {
+        "startfrekvens": "401",
+        "slutfrekvens": "402",
+        "användningsområde": "Rymdfarkostkontroll"
+    },
+    {
+        "startfrekvens": "401",
+        "slutfrekvens": "406",
+        "användningsområde": "Aktiva medicinska implantat"
+    },
+    {
+        "startfrekvens": "402",
+        "slutfrekvens": "403",
+        "användningsområde": "Meteorologi via satellit"
+    },
+    {
+        "startfrekvens": "402",
+        "slutfrekvens": "403",
+        "användningsområde": "Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "404",
+        "slutfrekvens": "405.9",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "406",
+        "slutfrekvens": "406.1",
+        "användningsområde": "Sjöfartsradio (EPIRB)"
+    },
+    {
+        "startfrekvens": "406",
+        "slutfrekvens": "406.1",
+        "användningsområde": "Luftfartsradio (ELT)"
+    },
+    {
+        "startfrekvens": "406",
+        "slutfrekvens": "406.1",
+        "användningsområde": "Personlig radio (PLB)"
+    },
+    {
+        "startfrekvens": "406.2",
+        "slutfrekvens": "410",
+        "användningsområde": "PMR"
+    },
+    {
+        "startfrekvens": "406.2",
+        "slutfrekvens": "410",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "406.2",
+        "slutfrekvens": "450",
+        "användningsområde": "Militär användning"
+    },
+    {
+        "startfrekvens": "429.4375",
+        "slutfrekvens": "429.4625",
+        "användningsområde": "Larmöverföring"
+    },
+    {
+        "startfrekvens": "430",
+        "slutfrekvens": "432",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "430",
+        "slutfrekvens": "440",
+        "användningsområde": "Insamling medicinska data"
+    },
+    {
+        "startfrekvens": "432",
+        "slutfrekvens": "438",
+        "användningsområde": "Amatörradio"
+    },
+    {
+        "startfrekvens": "433.05",
+        "slutfrekvens": "434.79",
+        "användningsområde": "Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "438",
+        "slutfrekvens": "439.6875",
+        "användningsområde": "Telemetri och radiostyrning"
+    },
+    {
+        "startfrekvens": "439.6875",
+        "slutfrekvens": "439.9875",
+        "användningsområde": "Telemetri och radiostyrning"
+    },
+    {
+        "startfrekvens": "440",
+        "slutfrekvens": "442",
+        "användningsområde": "Fast radio"
+    },
+    {
+        "startfrekvens": "443.9875",
+        "slutfrekvens": "444.4125",
+        "användningsområde": "Telemetri och radiostyrning"
+    },
+    {
+        "startfrekvens": "444",
+        "slutfrekvens": "444.5875",
+        "användningsområde": "Telemetri och radiostyrning"
+    },
+    {
+        "startfrekvens": "444",
+        "slutfrekvens": "444.5875",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "444.5875",
+        "slutfrekvens": "448",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "444.5875",
+        "slutfrekvens": "444.9875",
+        "användningsområde": "Landmobil radio"
+    },
+    {
+        "startfrekvens": "444.5875",
+        "slutfrekvens": "448",
+        "användningsområde": "PMR"
+    },
+    {
+        "startfrekvens": "446",
+        "slutfrekvens": "446.2",
+        "användningsområde": "PMR 446"
+    },
+    {
+        "startfrekvens": "470",
+        "slutfrekvens": "694",
+        "användningsområde": "Rundradio (DVB-T)"
+    },
+    {
+        "startfrekvens": "470",
+        "slutfrekvens": "694",
+        "användningsområde": "Ljudöverföring"
+    },
+    {
+        "startfrekvens": "694",
+        "slutfrekvens": "790",
+        "användningsområde": "MFCN"
+    },
+    {
+        "startfrekvens": "790",
+        "slutfrekvens": "862",
+        "användningsområde": "MFCN"
+    },
+    {
+        "startfrekvens": "821.5",
+        "slutfrekvens": "832",
+        "användningsområde": "Ljudöverföring"
+    },
+    {
+        "startfrekvens": "862",
+        "slutfrekvens": "870",
+        "användningsområde": "Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "863",
+        "slutfrekvens": "865",
+        "användningsområde": "Ljudöverföring"
+    },
+    {
+        "startfrekvens": "863",
+        "slutfrekvens": "868",
+        "användningsområde": "Dataöverföring"
+    },
+    {
+        "startfrekvens": "865",
+        "slutfrekvens": "868",
+        "användningsområde": "RFID"
+    },
+    {
+        "startfrekvens": "868.6",
+        "slutfrekvens": "869.7",
+        "användningsområde": "Larmöverföring"
+    },
+    {
+        "startfrekvens": "869.2",
+        "slutfrekvens": "869.25",
+        "användningsområde": "Trygghetslarm"
+    },
+    {
+        "startfrekvens": "870",
+        "slutfrekvens": "874.4",
+        "användningsområde": "Dataöverföring"
+    },
+    {
+        "startfrekvens": "870",
+        "slutfrekvens": "874.4",
+        "användningsområde": "Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "870.5375",
+        "slutfrekvens": "870.6625",
+        "användningsområde": "Telemetri och radiostyrning"
+    },
+    {
+        "startfrekvens": "915",
+        "slutfrekvens": "919.4",
+        "användningsområde": "Dataöverföring"
+    },
+    {
+        "startfrekvens": "915",
+        "slutfrekvens": "919.4",
+        "användningsområde": "Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "916.1",
+        "slutfrekvens": "918.9",
+        "användningsområde": "RFID"
+    },
+    {
+        "startfrekvens": "960",
+        "slutfrekvens": "1",
+        "användningsområde": "215 Militär användning"
+    },
+    {
+        "startfrekvens": "960",
+        "slutfrekvens": "1",
+        "användningsområde": "215 Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "087.7",
+        "användningsområde": "1 092.3 Mobil luftfart via satellit (ADS-B)"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "164",
+        "användningsområde": "1 215 Satellitnavigerings-system"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "164",
+        "användningsområde": "1 191.795 Satellitnavigerings-system"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "191.795",
+        "användningsområde": "1 215 Satellitnavigerings-system"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "215",
+        "användningsområde": "1 237 Satellitnavigerings-system"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "215",
+        "användningsområde": "1 400 Radiolokalisering"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "237",
+        "användningsområde": "1 260 Satellitnavigerings-system"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "240",
+        "användningsområde": "1 300 Amatörradio"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "260",
+        "användningsområde": "1 300 Satellitnavigerings-system"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "300",
+        "användningsområde": "1 400 Militär användning"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "330",
+        "användningsområde": "1 427 Radioastronomi"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "400",
+        "användningsområde": "1 427 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "427",
+        "användningsområde": "1 518 MFCN"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "518",
+        "användningsområde": "1 525 Satellit"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "518",
+        "användningsområde": "1 544 Militär användning"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "525",
+        "användningsområde": "1 559 Satellit"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "544",
+        "användningsområde": "1 545 Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "545",
+        "användningsområde": "1 559 Militär användning"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "559",
+        "användningsområde": "1 591 Satellitnavigerings-system"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "563",
+        "användningsområde": "1 587 Satellitnavigerings-system"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "591",
+        "användningsområde": "1 610 Satellitnavigerings-system"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "610",
+        "användningsområde": "1 613.8 Jordstationer (mobila satellitsystem)"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "610.6",
+        "användningsområde": "1 613.8 Radioastronomi"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "613.8",
+        "användningsområde": "1 626.5 Jordstationer (mobila satellitsystem)"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "626.5",
+        "användningsområde": "1 645.5 Jordstationer (mobila satellitsystem)"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "645.5",
+        "användningsområde": "1 646.5 Sjöfartsradio"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "646.5",
+        "användningsområde": "1 660.5 Jordstationer (mobila satellitsystem)"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "660",
+        "användningsområde": "1 670 Radioastronomi"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "668",
+        "användningsområde": "1 670 Jordstationer (mobila satellitsystem)"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "670",
+        "användningsområde": "1 675 Jordstationer (mobila satellitsystem)"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "675",
+        "användningsområde": "1 710 Meteorologi via satellit"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "718.8",
+        "användningsområde": "1 722.2 Radioastronomi"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "785",
+        "användningsområde": "1 804.8 Ljudöverföring"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "880",
+        "användningsområde": "1 900 DECT"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "900",
+        "användningsområde": "1 910 Mobil radio för järnväg (RMR)"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "900",
+        "användningsområde": "1 920 MFCN"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "980",
+        "användningsområde": "2 010 Jordstationer (mobila satellitsystem)"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "010",
+        "användningsområde": "2 025 Video PMSE"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "025",
+        "användningsområde": "2 110 Rymdforskning"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "025",
+        "användningsområde": "2 110 Rymdfarkostkontroll"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "025",
+        "användningsområde": "2 110 Militär användning"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "170",
+        "användningsområde": "2 200 Satellit"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "180",
+        "användningsområde": "2 370 Radioastronomi"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "200",
+        "användningsområde": "2 290 Rymdfarkostkontroll"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "200",
+        "användningsområde": "2 300 Militär användning"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "200",
+        "användningsområde": "2 290 Rymdforskning"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "300",
+        "användningsområde": "2 380 MFCN"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "380",
+        "användningsområde": "2 400 MFCN"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "400",
+        "användningsområde": "2 483.5 Dataöverföring"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "400",
+        "användningsområde": "2 483.5 Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "400",
+        "användningsområde": "2 483.5 Landmobil radio"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "400",
+        "användningsområde": "2 483.5 Militär användning"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "400",
+        "användningsområde": "2 450 Amatörradio"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "400",
+        "användningsområde": "2 483.5 Radiobestämning"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "446",
+        "användningsområde": "2 454 RFID"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "483.5",
+        "användningsområde": "2 500 Satellit"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "483.5",
+        "användningsområde": "2 500 MBANS"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "483.5",
+        "användningsområde": "2 500 Aktiva medicinska implantat"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "500",
+        "användningsområde": "2 690 MFCN"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "655",
+        "användningsområde": "2 690 Radioastronomi"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "690",
+        "användningsområde": "2 700 Radioastronomi"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "700",
+        "användningsområde": "2 900 Radiolokalisering"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "700",
+        "användningsområde": "2 900 Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "700",
+        "användningsområde": "2 900 Meteorologisk radar"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "900",
+        "användningsområde": "3 100 Sjöfartsradar"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "900",
+        "användningsområde": "3 400 Militär användning"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "900",
+        "användningsområde": "3 100 Radionavigering för sjöfart"
+    },
+    {
+        "startfrekvens": "3",
+        "slutfrekvens": "100",
+        "användningsområde": "3 400 Radiolokalisering"
+    },
+    {
+        "startfrekvens": "3",
+        "slutfrekvens": "260",
+        "användningsområde": "3 267 Radioastronomi"
+    },
+    {
+        "startfrekvens": "3",
+        "slutfrekvens": "332",
+        "användningsområde": "3 339 Radioastronomi"
+    },
+    {
+        "startfrekvens": "3",
+        "slutfrekvens": "345.8",
+        "användningsområde": "3 352.5 Radioastronomi"
+    },
+    {
+        "startfrekvens": "3",
+        "slutfrekvens": "400",
+        "användningsområde": "3 720 MFCN"
+    },
+    {
+        "startfrekvens": "3",
+        "slutfrekvens": "720",
+        "användningsområde": "3 800 MFCN"
+    },
+    {
+        "startfrekvens": "3",
+        "slutfrekvens": "800",
+        "användningsområde": "4 200 MFCN"
+    },
+    {
+        "startfrekvens": "3",
+        "slutfrekvens": "800",
+        "användningsområde": "4 200 Satellit"
+    },
+    {
+        "startfrekvens": "3",
+        "slutfrekvens": "900",
+        "användningsområde": "4 990 Militär användning"
+    },
+    {
+        "startfrekvens": "4",
+        "slutfrekvens": "200",
+        "användningsområde": "4 400 Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "4",
+        "slutfrekvens": "200",
+        "användningsområde": "4 400 Höjdmätare"
+    },
+    {
+        "startfrekvens": "4",
+        "slutfrekvens": "200",
+        "användningsområde": "4 400 Mobil luftfartsradio (WAIC)"
+    },
+    {
+        "startfrekvens": "4",
+        "slutfrekvens": "500",
+        "användningsområde": "7 000 Nivåmätare för kärl och behållare (TLPR)"
+    },
+    {
+        "startfrekvens": "4",
+        "slutfrekvens": "500",
+        "användningsområde": "4 800 Satellit"
+    },
+    {
+        "startfrekvens": "4",
+        "slutfrekvens": "800",
+        "användningsområde": "5 000 Radioastronomi"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "000",
+        "användningsområde": "5 250 Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "030",
+        "användningsområde": "5 150 Luftfartsradio (MLS)"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "091",
+        "användningsområde": "5 850 Militär användning"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "150",
+        "användningsområde": "5 350 Dataöverföring"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "150",
+        "användningsområde": "5 250 Luftfartsradio (telemetri)"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "350",
+        "användningsområde": "5 470 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "440",
+        "användningsområde": "5 440 Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "440",
+        "användningsområde": "5 440 Radiofyrar för luftfart"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "460",
+        "användningsområde": "5 470 Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "470",
+        "användningsområde": "5 650 Radionavigering för sjöfart"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "470",
+        "användningsområde": "5 725 Dataöverföring"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "525",
+        "användningsområde": "5 525 Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "525",
+        "användningsområde": "5 525 Radiofyrar för luftfart"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "600",
+        "användningsområde": "5 650 Meteorologisk radar"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "650",
+        "användningsområde": "5 850 Amatörradio"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "725",
+        "användningsområde": "5 875 Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "795",
+        "användningsområde": "5 815 Väg- och fordonstelemetri"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "855",
+        "användningsområde": "5 875 ITS"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "875",
+        "användningsområde": "5 925 ITS"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "875",
+        "användningsområde": "6 725 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "925",
+        "användningsområde": "5 935 ITS"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "945",
+        "användningsområde": "6 425 Dataöverföring"
+    },
+    {
+        "startfrekvens": "6",
+        "slutfrekvens": "000",
+        "användningsområde": "8 500 Nivåmätare (LPR)"
+    },
+    {
+        "startfrekvens": "6",
+        "slutfrekvens": "425",
+        "användningsområde": "7 025 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "6",
+        "slutfrekvens": "650",
+        "användningsområde": "6 675.2 Radioastronomi"
+    },
+    {
+        "startfrekvens": "6",
+        "slutfrekvens": "725",
+        "användningsområde": "7 025 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "7",
+        "slutfrekvens": "025",
+        "användningsområde": "7 075 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "7",
+        "slutfrekvens": "075",
+        "användningsområde": "7 250 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "7",
+        "slutfrekvens": "125",
+        "användningsområde": "7 424 Militär användning"
+    },
+    {
+        "startfrekvens": "7",
+        "slutfrekvens": "190",
+        "användningsområde": "7 250 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "7",
+        "slutfrekvens": "250",
+        "användningsområde": "7 750 Satellit"
+    },
+    {
+        "startfrekvens": "7",
+        "slutfrekvens": "450",
+        "användningsområde": "7 550 Meteorologi via satellit"
+    },
+    {
+        "startfrekvens": "7",
+        "slutfrekvens": "750",
+        "användningsområde": "7 900 Meteorologi via satellit"
+    },
+    {
+        "startfrekvens": "7",
+        "slutfrekvens": "900",
+        "användningsområde": "8 400 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "8",
+        "slutfrekvens": "025",
+        "användningsområde": "8 400 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "8",
+        "slutfrekvens": "190",
+        "användningsområde": "9 000 Radioastronomi"
+    },
+    {
+        "startfrekvens": "8",
+        "slutfrekvens": "400",
+        "användningsområde": "8 500 Rymdforskning"
+    },
+    {
+        "startfrekvens": "8",
+        "slutfrekvens": "500",
+        "användningsområde": "10 600 Nivåmätare för kärl och behållare (TLPR)"
+    },
+    {
+        "startfrekvens": "8",
+        "slutfrekvens": "500",
+        "användningsområde": "10 210 Militär användning"
+    },
+    {
+        "startfrekvens": "8",
+        "slutfrekvens": "500",
+        "användningsområde": "8 850 Radiolokalisering"
+    },
+    {
+        "startfrekvens": "8",
+        "slutfrekvens": "750",
+        "användningsområde": "8 850 Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "8",
+        "slutfrekvens": "750",
+        "användningsområde": "8 850 Flygburen dopplernavigerings-utrustning"
+    },
+    {
+        "startfrekvens": "9",
+        "slutfrekvens": "000",
+        "användningsområde": "9 200 Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "9",
+        "slutfrekvens": "000",
+        "användningsområde": "9 200 Radiolokalisering"
+    },
+    {
+        "startfrekvens": "9",
+        "slutfrekvens": "200",
+        "användningsområde": "9 300 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "9",
+        "slutfrekvens": "225",
+        "användningsområde": "9 500 Sjöfartsradar"
+    },
+    {
+        "startfrekvens": "9",
+        "slutfrekvens": "300",
+        "användningsområde": "9 500 Meteorologisk radar"
+    },
+    {
+        "startfrekvens": "9",
+        "slutfrekvens": "900",
+        "användningsområde": "10 400 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "000",
+        "användningsområde": "10 210 Radiolokalisering"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "000",
+        "användningsområde": "10 500 Amatörradio"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "250",
+        "användningsområde": "10 280 Radiobestämning"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "350",
+        "användningsområde": "10 380 Radiobestämning"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "450",
+        "användningsområde": "10 560 Militär användning"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "510",
+        "användningsområde": "10 580 Radiobestämning"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "600",
+        "användningsområde": "10 680 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "600",
+        "användningsområde": "10 700 Radioastronomi"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "644",
+        "användningsområde": "10 680 Radiolokalisering"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "700",
+        "användningsområde": "10 950 Satellit"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "950",
+        "användningsområde": "11 200 Satellit"
+    },
+    {
+        "startfrekvens": "11",
+        "slutfrekvens": "200",
+        "användningsområde": "11 450 Satellit"
+    },
+    {
+        "startfrekvens": "11",
+        "slutfrekvens": "450",
+        "användningsområde": "11 700 Satellit"
+    },
+    {
+        "startfrekvens": "11",
+        "slutfrekvens": "700",
+        "användningsområde": "12 500 Rundradio via satellit"
+    },
+    {
+        "startfrekvens": "12",
+        "slutfrekvens": "500",
+        "användningsområde": "12 750 Satellit"
+    },
+    {
+        "startfrekvens": "12",
+        "slutfrekvens": "750",
+        "användningsområde": "14 000 Militär användning"
+    },
+    {
+        "startfrekvens": "12",
+        "slutfrekvens": "750",
+        "användningsområde": "13 250 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "13",
+        "slutfrekvens": "250",
+        "användningsområde": "13 400 Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "13",
+        "slutfrekvens": "250",
+        "användningsområde": "13 400 Flygburen dopplernavigerings-utrustning"
+    },
+    {
+        "startfrekvens": "13",
+        "slutfrekvens": "400",
+        "användningsområde": "14 000 Radiobestämning"
+    },
+    {
+        "startfrekvens": "13",
+        "slutfrekvens": "400",
+        "användningsområde": "14 000 Radiolokalisering"
+    },
+    {
+        "startfrekvens": "13",
+        "slutfrekvens": "400",
+        "användningsområde": "13 650 Satellit"
+    },
+    {
+        "startfrekvens": "13",
+        "slutfrekvens": "750",
+        "användningsområde": "14 000 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "14",
+        "slutfrekvens": "000",
+        "användningsområde": "14 500 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "14",
+        "slutfrekvens": "000",
+        "användningsområde": "14 250 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "14",
+        "slutfrekvens": "000",
+        "användningsområde": "14 500 Jordstationer (mobila satellitsystem)"
+    },
+    {
+        "startfrekvens": "14",
+        "slutfrekvens": "250",
+        "användningsområde": "14 500 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "14",
+        "slutfrekvens": "470",
+        "användningsområde": "14 500 Radioastronomi"
+    },
+    {
+        "startfrekvens": "14",
+        "slutfrekvens": "500",
+        "användningsområde": "15 350 Militär användning"
+    },
+    {
+        "startfrekvens": "14",
+        "slutfrekvens": "500",
+        "användningsområde": "14 800 Rymdforskning"
+    },
+    {
+        "startfrekvens": "15",
+        "slutfrekvens": "350",
+        "användningsområde": "15 400 Radioastronomi"
+    },
+    {
+        "startfrekvens": "15",
+        "slutfrekvens": "350",
+        "användningsområde": "15 400 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "15",
+        "slutfrekvens": "400",
+        "användningsområde": "15 700 Radionavigering för luftfart"
+    },
+    {
+        "startfrekvens": "15",
+        "slutfrekvens": "400",
+        "användningsområde": "17 300 Militär användning"
+    },
+    {
+        "startfrekvens": "17",
+        "slutfrekvens": "100",
+        "användningsområde": "17 300 Dataöverföring"
+    },
+    {
+        "startfrekvens": "17",
+        "slutfrekvens": "100",
+        "användningsområde": "17 300 GBSAR"
+    },
+    {
+        "startfrekvens": "17",
+        "slutfrekvens": "100",
+        "användningsområde": "17 300 Radiobestämning"
+    },
+    {
+        "startfrekvens": "17",
+        "slutfrekvens": "300",
+        "användningsområde": "18 100 Matarlänkar (satellit)"
+    },
+    {
+        "startfrekvens": "17",
+        "slutfrekvens": "700",
+        "användningsområde": "19 300 Satellit"
+    },
+    {
+        "startfrekvens": "17",
+        "slutfrekvens": "700",
+        "användningsområde": "18 100 Militär användning"
+    },
+    {
+        "startfrekvens": "18",
+        "slutfrekvens": "100",
+        "användningsområde": "18 400 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "18",
+        "slutfrekvens": "600",
+        "användningsområde": "18 800 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "18",
+        "slutfrekvens": "600",
+        "användningsområde": "19 300 Militär användning"
+    },
+    {
+        "startfrekvens": "19",
+        "slutfrekvens": "300",
+        "användningsområde": "19 700 Satellit"
+    },
+    {
+        "startfrekvens": "19",
+        "slutfrekvens": "700",
+        "användningsområde": "20 100 Satellit"
+    },
+    {
+        "startfrekvens": "20",
+        "slutfrekvens": "100",
+        "användningsområde": "21 200 Satellit"
+    },
+    {
+        "startfrekvens": "21",
+        "slutfrekvens": "200",
+        "användningsområde": "21 400 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "21",
+        "slutfrekvens": "400",
+        "användningsområde": "22 000 Rundradio via satellit"
+    },
+    {
+        "startfrekvens": "21",
+        "slutfrekvens": "650",
+        "användningsområde": "24 250 Fordonsradar (SRR)"
+    },
+    {
+        "startfrekvens": "22",
+        "slutfrekvens": "010",
+        "användningsområde": "22 500 Radioastronomi"
+    },
+    {
+        "startfrekvens": "22",
+        "slutfrekvens": "210",
+        "användningsområde": "23 600 Militär användning"
+    },
+    {
+        "startfrekvens": "22",
+        "slutfrekvens": "810",
+        "användningsområde": "22 860 Radioastronomi"
+    },
+    {
+        "startfrekvens": "23",
+        "slutfrekvens": "070",
+        "användningsområde": "23 120 Radioastronomi"
+    },
+    {
+        "startfrekvens": "23",
+        "slutfrekvens": "600",
+        "användningsområde": "24 000 Radioastronomi"
+    },
+    {
+        "startfrekvens": "23",
+        "slutfrekvens": "600",
+        "användningsområde": "24 000 Rymdforskning"
+    },
+    {
+        "startfrekvens": "23",
+        "slutfrekvens": "600",
+        "användningsområde": "24 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "24",
+        "slutfrekvens": "000",
+        "användningsområde": "24 250 Radiobestämning"
+    },
+    {
+        "startfrekvens": "24",
+        "slutfrekvens": "000",
+        "användningsområde": "24 250 Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "24",
+        "slutfrekvens": "000",
+        "användningsområde": "24 250 Amatörradio"
+    },
+    {
+        "startfrekvens": "24",
+        "slutfrekvens": "050",
+        "användningsområde": "27 000 Nivåmätare för kärl och behållare (TLPR)"
+    },
+    {
+        "startfrekvens": "24",
+        "slutfrekvens": "050",
+        "användningsområde": "26 500 Nivåmätare (LPR)"
+    },
+    {
+        "startfrekvens": "24",
+        "slutfrekvens": "050",
+        "användningsområde": "24 250 Transport- och trafiktelematik (TTT)"
+    },
+    {
+        "startfrekvens": "24",
+        "slutfrekvens": "250",
+        "användningsområde": "26 650 Fordonsradar (SRR)"
+    },
+    {
+        "startfrekvens": "24",
+        "slutfrekvens": "250",
+        "användningsområde": "25 100 MFCN"
+    },
+    {
+        "startfrekvens": "25",
+        "slutfrekvens": "100",
+        "användningsområde": "27 500 MFCN"
+    },
+    {
+        "startfrekvens": "25",
+        "slutfrekvens": "500",
+        "användningsområde": "27 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "27",
+        "slutfrekvens": "500",
+        "användningsområde": "27 940.5 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "28",
+        "slutfrekvens": "444.5",
+        "användningsområde": "28 948.5 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "29",
+        "slutfrekvens": "452.5",
+        "användningsområde": "29 500 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "29",
+        "slutfrekvens": "500",
+        "användningsområde": "30 000 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "29",
+        "slutfrekvens": "500",
+        "användningsområde": "30 000 Jordstationer (mobila satellitsystem)"
+    },
+    {
+        "startfrekvens": "30",
+        "slutfrekvens": "000",
+        "användningsområde": "31 000 Militär användning"
+    },
+    {
+        "startfrekvens": "31",
+        "slutfrekvens": "200",
+        "användningsområde": "31 800 Radioastronomi"
+    },
+    {
+        "startfrekvens": "31",
+        "slutfrekvens": "300",
+        "användningsområde": "31 800 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "31",
+        "slutfrekvens": "800",
+        "användningsområde": "31 815 Övrigt"
+    },
+    {
+        "startfrekvens": "32",
+        "slutfrekvens": "571",
+        "användningsområde": "32 627 Övrigt"
+    },
+    {
+        "startfrekvens": "33",
+        "slutfrekvens": "383",
+        "användningsområde": "34 000 Övrigt"
+    },
+    {
+        "startfrekvens": "34",
+        "slutfrekvens": "000",
+        "användningsområde": "35 200 Militär användning"
+    },
+    {
+        "startfrekvens": "35",
+        "slutfrekvens": "200",
+        "användningsområde": "36 430 Övrigt"
+    },
+    {
+        "startfrekvens": "36",
+        "slutfrekvens": "430",
+        "användningsområde": "36 500 Radioastronomi"
+    },
+    {
+        "startfrekvens": "36",
+        "slutfrekvens": "500",
+        "användningsområde": "37 058 Övrigt"
+    },
+    {
+        "startfrekvens": "37",
+        "slutfrekvens": "500",
+        "användningsområde": "40 500 Satellit"
+    },
+    {
+        "startfrekvens": "40",
+        "slutfrekvens": "500",
+        "användningsområde": "42 500 Satellit"
+    },
+    {
+        "startfrekvens": "40",
+        "slutfrekvens": "500",
+        "användningsområde": "43 500 MFCN"
+    },
+    {
+        "startfrekvens": "42",
+        "slutfrekvens": "500",
+        "användningsområde": "43 500 Radioastronomi"
+    },
+    {
+        "startfrekvens": "42",
+        "slutfrekvens": "500",
+        "användningsområde": "43 500 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "43",
+        "slutfrekvens": "500",
+        "användningsområde": "47 000 Övrigt"
+    },
+    {
+        "startfrekvens": "47",
+        "slutfrekvens": "000",
+        "användningsområde": "47 200 Amatörradio"
+    },
+    {
+        "startfrekvens": "47",
+        "slutfrekvens": "200",
+        "användningsområde": "50 200 Satellit"
+    },
+    {
+        "startfrekvens": "48",
+        "slutfrekvens": "540",
+        "användningsområde": "49 440 Radioastronomi"
+    },
+    {
+        "startfrekvens": "50",
+        "slutfrekvens": "200",
+        "användningsområde": "50 400 Radioastronomi"
+    },
+    {
+        "startfrekvens": "50",
+        "slutfrekvens": "200",
+        "användningsområde": "50 400 Rymdforskning"
+    },
+    {
+        "startfrekvens": "50",
+        "slutfrekvens": "200",
+        "användningsområde": "50 400 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "50",
+        "slutfrekvens": "400",
+        "användningsområde": "52 400 Jordstationer (fasta satellitsystem)"
+    },
+    {
+        "startfrekvens": "52",
+        "slutfrekvens": "400",
+        "användningsområde": "52 600 Övrigt"
+    },
+    {
+        "startfrekvens": "52",
+        "slutfrekvens": "600",
+        "användningsområde": "55 780 Rymdforskning"
+    },
+    {
+        "startfrekvens": "52",
+        "slutfrekvens": "600",
+        "användningsområde": "57 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "57",
+        "slutfrekvens": "000",
+        "användningsområde": "64 000 Nivåmätare för kärl och behållare (TLPR)"
+    },
+    {
+        "startfrekvens": "57",
+        "slutfrekvens": "000",
+        "användningsområde": "64 000 Nivåmätare (LPR)"
+    },
+    {
+        "startfrekvens": "57",
+        "slutfrekvens": "000",
+        "användningsområde": "66 000 Fast radio"
+    },
+    {
+        "startfrekvens": "57",
+        "slutfrekvens": "000",
+        "användningsområde": "64 000 Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "57",
+        "slutfrekvens": "000",
+        "användningsområde": "71 000 Dataöverföring"
+    },
+    {
+        "startfrekvens": "63",
+        "slutfrekvens": "720",
+        "användningsområde": "65 880 Transport- och trafiktelematik (TTT)"
+    },
+    {
+        "startfrekvens": "75",
+        "slutfrekvens": "000",
+        "användningsområde": "85 000 Nivåmätare (LPR)"
+    },
+    {
+        "startfrekvens": "75",
+        "slutfrekvens": "000",
+        "användningsområde": "85 000 Nivåmätare för kärl och behållare (TLPR)"
+    },
+    {
+        "startfrekvens": "75",
+        "slutfrekvens": "500",
+        "användningsområde": "81 000 Amatörradio"
+    },
+    {
+        "startfrekvens": "76",
+        "slutfrekvens": "000",
+        "användningsområde": "116 000 Radioastronomi"
+    },
+    {
+        "startfrekvens": "76",
+        "slutfrekvens": "000",
+        "användningsområde": "77 000 Radiobestämning"
+    },
+    {
+        "startfrekvens": "76",
+        "slutfrekvens": "000",
+        "användningsområde": "77 000 Transport- och trafiktelematik (TTT)"
+    },
+    {
+        "startfrekvens": "77",
+        "slutfrekvens": "000",
+        "användningsområde": "81 000 Fordonsradar (SRR)"
+    },
+    {
+        "startfrekvens": "77",
+        "slutfrekvens": "500",
+        "användningsområde": "78 000 Radiolokalisering"
+    },
+    {
+        "startfrekvens": "86",
+        "slutfrekvens": "000",
+        "användningsområde": "92 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "94",
+        "slutfrekvens": "000",
+        "användningsområde": "94 100 Meteorologisk radar"
+    },
+    {
+        "startfrekvens": "100",
+        "slutfrekvens": "000",
+        "användningsområde": "116 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "116",
+        "slutfrekvens": "000",
+        "användningsområde": "148 500 Radiobestämning"
+    },
+    {
+        "startfrekvens": "122",
+        "slutfrekvens": "000",
+        "användningsområde": "123 000 Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "122",
+        "slutfrekvens": "250",
+        "användningsområde": "123 000 Amatörradio"
+    },
+    {
+        "startfrekvens": "134",
+        "slutfrekvens": "000",
+        "användningsområde": "141 000 Amatörradio"
+    },
+    {
+        "startfrekvens": "148",
+        "slutfrekvens": "500",
+        "användningsområde": "151 500 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "151",
+        "slutfrekvens": "500",
+        "användningsområde": "164 000 Radiobestämning"
+    },
+    {
+        "startfrekvens": "155",
+        "slutfrekvens": "500",
+        "användningsområde": "158 500 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "164",
+        "slutfrekvens": "000",
+        "användningsområde": "167 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "167",
+        "slutfrekvens": "000",
+        "användningsområde": "182 000 Radiobestämning"
+    },
+    {
+        "startfrekvens": "174",
+        "slutfrekvens": "800",
+        "användningsområde": "191 800 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "185",
+        "slutfrekvens": "000",
+        "användningsområde": "190 000 Radiobestämning"
+    },
+    {
+        "startfrekvens": "191",
+        "slutfrekvens": "800",
+        "användningsområde": "200 000 Radiobestämning"
+    },
+    {
+        "startfrekvens": "200",
+        "slutfrekvens": "000",
+        "användningsområde": "209 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "209",
+        "slutfrekvens": "000",
+        "användningsområde": "226 000 Radiobestämning"
+    },
+    {
+        "startfrekvens": "226",
+        "slutfrekvens": "000",
+        "användningsområde": "232 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "231",
+        "slutfrekvens": "500",
+        "användningsområde": "250 000 Radiobestämning"
+    },
+    {
+        "startfrekvens": "235",
+        "slutfrekvens": "000",
+        "användningsområde": "238 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "241",
+        "slutfrekvens": "000",
+        "användningsområde": "250 000 Amatörradio"
+    },
+    {
+        "startfrekvens": "244",
+        "slutfrekvens": "000",
+        "användningsområde": "246 000 Allmän kortdistansradio"
+    },
+    {
+        "startfrekvens": "250",
+        "slutfrekvens": "000",
+        "användningsområde": "252 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "252",
+        "slutfrekvens": "000",
+        "användningsområde": "260 000 Radiobestämning"
+    },
+    {
+        "startfrekvens": "260",
+        "slutfrekvens": "000",
+        "användningsområde": "275 000 Övrigt"
+    },
+    {
+        "startfrekvens": "275",
+        "slutfrekvens": "000",
+        "användningsområde": "277 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "277",
+        "slutfrekvens": "000",
+        "användningsområde": "294 000 Övrigt"
+    },
+    {
+        "startfrekvens": "294",
+        "slutfrekvens": "000",
+        "användningsområde": "306 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "306",
+        "slutfrekvens": "000",
+        "användningsområde": "316 000 Övrigt"
+    },
+    {
+        "startfrekvens": "316",
+        "slutfrekvens": "000",
+        "användningsområde": "334 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "334",
+        "slutfrekvens": "000",
+        "användningsområde": "342 000 Övrigt"
+    },
+    {
+        "startfrekvens": "342",
+        "slutfrekvens": "000",
+        "användningsområde": "349 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "349",
+        "slutfrekvens": "000",
+        "användningsområde": "363 000 Övrigt"
+    },
+    {
+        "startfrekvens": "363",
+        "slutfrekvens": "000",
+        "användningsområde": "365 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "365",
+        "slutfrekvens": "000",
+        "användningsområde": "371 000 Övrigt"
+    },
+    {
+        "startfrekvens": "371",
+        "slutfrekvens": "000",
+        "användningsområde": "389 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "389",
+        "slutfrekvens": "000",
+        "användningsområde": "416 000 Övrigt"
+    },
+    {
+        "startfrekvens": "416",
+        "slutfrekvens": "000",
+        "användningsområde": "434 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "434",
+        "slutfrekvens": "000",
+        "användningsområde": "442 000 Övrigt"
+    },
+    {
+        "startfrekvens": "442",
+        "slutfrekvens": "000",
+        "användningsområde": "444 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "444",
+        "slutfrekvens": "000",
+        "användningsområde": "496 000 Övrigt"
+    },
+    {
+        "startfrekvens": "496",
+        "slutfrekvens": "000",
+        "användningsområde": "506 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "506",
+        "slutfrekvens": "000",
+        "användningsområde": "546 000 Övrigt"
+    },
+    {
+        "startfrekvens": "546",
+        "slutfrekvens": "000",
+        "användningsområde": "568 000 Jordutforskning via satellit"
+    },
+    {
+        "startfrekvens": "568",
+        "slutfrekvens": "000",
+        "användningsområde": "3 000 000 Övrigt"
+    },
+    {
+        "startfrekvens": "450",
+        "slutfrekvens": "452.5",
+        "användningsområde": "Landmobil radio .46 - .4625"
+    },
+    {
+        "startfrekvens": "457.5",
+        "slutfrekvens": "460",
+        "användningsområde": "Landmobil radio .4675 - .47"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "560",
+        "användningsområde": "10 616 MFCN 10210 - 10266"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "086",
+        "användningsområde": "1 094 Luftfartsradio (SSR) 1026 - 1034"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "616",
+        "användningsområde": "10 672 Fast radio 10266 - 10322"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "210",
+        "användningsområde": "10 266 MFCN 10560 - 10616"
+    },
+    {
+        "startfrekvens": "10",
+        "slutfrekvens": "266",
+        "användningsområde": "10 322 Fast radio 10616 - 10672"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "026",
+        "användningsområde": "1 034 Luftfartsradio (SSR) 1086 - 1094"
+    },
+    {
+        "startfrekvens": "13",
+        "slutfrekvens": "017",
+        "användningsområde": "13 129 Fast radio 12751 - 12863"
+    },
+    {
+        "startfrekvens": "12",
+        "slutfrekvens": "751",
+        "användningsområde": "12 863 Fast radio 13017 - 13129"
+    },
+    {
+        "startfrekvens": "14",
+        "slutfrekvens": "921",
+        "användningsområde": "15 201 Fast radio 14501 - 14781"
+    },
+    {
+        "startfrekvens": "150.05",
+        "slutfrekvens": "151",
+        "användningsområde": "PMR 146.05 - 147"
+    },
+    {
+        "startfrekvens": "150.05",
+        "slutfrekvens": "151",
+        "användningsområde": "Landmobil radio 146.05 - 147"
+    },
+    {
+        "startfrekvens": "14",
+        "slutfrekvens": "501",
+        "användningsområde": "14 781 Fast radio 14921 - 15201"
+    },
+    {
+        "startfrekvens": "146.05",
+        "slutfrekvens": "147",
+        "användningsområde": "Landmobil radio 150.05 - 151"
+    },
+    {
+        "startfrekvens": "146.05",
+        "slutfrekvens": "147",
+        "användningsområde": "PMR 150.05 - 151"
+    },
+    {
+        "startfrekvens": "160.6125",
+        "slutfrekvens": "160.8875",
+        "användningsområde": "Sjöfartsradio 156.0125 - 156.2875"
+    },
+    {
+        "startfrekvens": "160.9125",
+        "slutfrekvens": "160.9625",
+        "användningsområde": "Sjöfartsradio 156.3125 - 156.3625"
+    },
+    {
+        "startfrekvens": "161.4875",
+        "slutfrekvens": "161.6125",
+        "användningsområde": "Sjöfartsradio 156.8875 - 157.0125"
+    },
+    {
+        "startfrekvens": "161.6125",
+        "slutfrekvens": "161.7875",
+        "användningsområde": "Sjöfartsradio 157.0125 - 157.1875"
+    },
+    {
+        "startfrekvens": "166.075",
+        "slutfrekvens": "168.6",
+        "användningsområde": "Landmobil radio 158.075 - 160.6"
+    },
+    {
+        "startfrekvens": "166.075",
+        "slutfrekvens": "168.6",
+        "användningsområde": "PMR 158.075 - 160.6"
+    },
+    {
+        "startfrekvens": "156.0125",
+        "slutfrekvens": "156.2875",
+        "användningsområde": "Sjöfartsradio 160.6125 - 160.8875"
+    },
+    {
+        "startfrekvens": "156.3125",
+        "slutfrekvens": "156.3625",
+        "användningsområde": "Sjöfartsradio 160.9125 - 160.9625"
+    },
+    {
+        "startfrekvens": "156.8875",
+        "slutfrekvens": "157.0125",
+        "användningsområde": "Sjöfartsradio 161.4875 - 161.6125"
+    },
+    {
+        "startfrekvens": "157.0125",
+        "slutfrekvens": "157.1875",
+        "användningsområde": "Sjöfartsradio 161.6125 - 161.7875"
+    },
+    {
+        "startfrekvens": "170.025",
+        "slutfrekvens": "171",
+        "användningsområde": "PMR 162.025 - 163"
+    },
+    {
+        "startfrekvens": "171",
+        "slutfrekvens": "172",
+        "användningsområde": "Militär användning 163 - 164"
+    },
+    {
+        "startfrekvens": "172",
+        "slutfrekvens": "174",
+        "användningsområde": "Landmobil radio 164 - 166"
+    },
+    {
+        "startfrekvens": "172",
+        "slutfrekvens": "174",
+        "användningsområde": "PMR 164 - 166"
+    },
+    {
+        "startfrekvens": "158.075",
+        "slutfrekvens": "160.6",
+        "användningsområde": "PMR 166.075 - 168.6"
+    },
+    {
+        "startfrekvens": "158.075",
+        "slutfrekvens": "160.6",
+        "användningsområde": "Landmobil radio 166.075 - 168.6"
+    },
+    {
+        "startfrekvens": "162.025",
+        "slutfrekvens": "163",
+        "användningsområde": "PMR 170.025 - 171"
+    },
+    {
+        "startfrekvens": "162.025",
+        "slutfrekvens": "163",
+        "användningsområde": "Landmobil radio 170.025 - 171"
+    },
+    {
+        "startfrekvens": "163",
+        "slutfrekvens": "164",
+        "användningsområde": "Militär användning 171 - 172"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "805",
+        "användningsområde": "1 880 MFCN 1710 - 1785"
+    },
+    {
+        "startfrekvens": "164",
+        "slutfrekvens": "166",
+        "användningsområde": "Landmobil radio 172 - 174"
+    },
+    {
+        "startfrekvens": "164",
+        "slutfrekvens": "166",
+        "användningsområde": "PMR 172 - 174"
+    },
+    {
+        "startfrekvens": "18",
+        "slutfrekvens": "710",
+        "användningsområde": "19 700 Fast radio 17700 - 18690"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "710",
+        "användningsområde": "1 785 MFCN 1805 - 1880"
+    },
+    {
+        "startfrekvens": "17",
+        "slutfrekvens": "700",
+        "användningsområde": "18 690 Fast radio 18710 - 19700"
+    },
+    {
+        "startfrekvens": "2",
+        "slutfrekvens": "110",
+        "användningsområde": "2 170 MFCN 1920 - 1980"
+    },
+    {
+        "startfrekvens": "1",
+        "slutfrekvens": "920",
+        "användningsområde": "1 980 MFCN 2110 - 2170"
+    },
+    {
+        "startfrekvens": "23",
+        "slutfrekvens": "000",
+        "användningsområde": "23 600 Fast radio 22000 - 22600"
+    },
+    {
+        "startfrekvens": "22",
+        "slutfrekvens": "000",
+        "användningsområde": "22 600 Fast radio 23000 - 23600"
+    },
+    {
+        "startfrekvens": "25",
+        "slutfrekvens": "557",
+        "användningsområde": "26 453 Fast radio 24549 - 25445"
+    },
+    {
+        "startfrekvens": "24",
+        "slutfrekvens": "549",
+        "användningsområde": "25 445 Fast radio 25557 - 26453"
+    },
+    {
+        "startfrekvens": "28",
+        "slutfrekvens": "948.5",
+        "användningsområde": "29 172.5 MFCN 27940.5 - 28164.5"
+    },
+    {
+        "startfrekvens": "29",
+        "slutfrekvens": "172.5",
+        "användningsområde": "29 452.5 Fast radio 28164.5 - 28444.5"
+    },
+    {
+        "startfrekvens": "27",
+        "slutfrekvens": "940.5",
+        "användningsområde": "28 164.5 MFCN 28948.5 - 29172.5"
+    },
+    {
+        "startfrekvens": "28",
+        "slutfrekvens": "164.5",
+        "användningsområde": "28 444.5 Fast radio 29172.5 - 29452.5"
+    },
+    {
+        "startfrekvens": "32",
+        "slutfrekvens": "627",
+        "användningsområde": "33 383 Fast radio 31815 - 32571"
+    },
+    {
+        "startfrekvens": "31",
+        "slutfrekvens": "815",
+        "användningsområde": "32 571 Fast radio 32627 - 33383"
+    },
+    {
+        "startfrekvens": "386",
+        "slutfrekvens": "387",
+        "användningsområde": "Fast radio 370 - 371"
+    },
+    {
+        "startfrekvens": "38",
+        "slutfrekvens": "318",
+        "användningsområde": "39 438 Fast radio 37058 - 38178"
+    },
+    {
+        "startfrekvens": "390",
+        "slutfrekvens": "395",
+        "användningsområde": "Landmobil radio 380 - 385"
+    },
+    {
+        "startfrekvens": "390",
+        "slutfrekvens": "395",
+        "användningsområde": "TETRA 380 - 385"
+    },
+    {
+        "startfrekvens": "37",
+        "slutfrekvens": "058",
+        "användningsområde": "38 178 Fast radio 38318 - 39438"
+    },
+    {
+        "startfrekvens": "370",
+        "slutfrekvens": "371",
+        "användningsområde": "Fast radio 386 - 387"
+    },
+    {
+        "startfrekvens": "380",
+        "slutfrekvens": "385",
+        "användningsområde": "TETRA 390 - 395"
+    },
+    {
+        "startfrekvens": "380",
+        "slutfrekvens": "385",
+        "användningsområde": "Landmobil radio 390 - 395"
+    },
+    {
+        "startfrekvens": "420",
+        "slutfrekvens": "430",
+        "användningsområde": "TETRA 410 - 420"
+    },
+    {
+        "startfrekvens": "420",
+        "slutfrekvens": "430",
+        "användningsområde": "PMR 410 - 420"
+    },
+    {
+        "startfrekvens": "420",
+        "slutfrekvens": "430",
+        "användningsområde": "Landmobil radio 410 - 420"
+    },
+    {
+        "startfrekvens": "410",
+        "slutfrekvens": "420",
+        "användningsområde": "Landmobil radio 420 - 430"
+    },
+    {
+        "startfrekvens": "410",
+        "slutfrekvens": "420",
+        "användningsområde": "PMR 420 - 430"
+    },
+    {
+        "startfrekvens": "410",
+        "slutfrekvens": "420",
+        "användningsområde": "TETRA 420 - 430"
+    },
+    {
+        "startfrekvens": "448",
+        "slutfrekvens": "450",
+        "användningsområde": "Landmobil radio 442 - 444"
+    },
+    {
+        "startfrekvens": "448",
+        "slutfrekvens": "450",
+        "användningsområde": "PMR 442 - 444"
+    },
+    {
+        "startfrekvens": "442",
+        "slutfrekvens": "444",
+        "användningsområde": "Landmobil radio 448 - 450"
+    },
+    {
+        "startfrekvens": "442",
+        "slutfrekvens": "444",
+        "användningsområde": "PMR 448 - 450"
+    },
+    {
+        "startfrekvens": "460",
+        "slutfrekvens": "462.5",
+        "användningsområde": "PMR 450 - 452.5"
+    },
+    {
+        "startfrekvens": "460",
+        "slutfrekvens": "462.5",
+        "användningsområde": "Landmobil radio 450 - 452.5"
+    },
+    {
+        "startfrekvens": "462.5",
+        "slutfrekvens": "467.5",
+        "användningsområde": "MFCN 452.5 - 457.5"
+    },
+    {
+        "startfrekvens": "467.5",
+        "slutfrekvens": "470",
+        "användningsområde": "Landmobil radio 457.5 - 460"
+    },
+    {
+        "startfrekvens": "467.5",
+        "slutfrekvens": "470",
+        "användningsområde": "PMR 457.5 - 460"
+    },
+    {
+        "startfrekvens": "467.5125",
+        "slutfrekvens": "467.5875",
+        "användningsområde": "Kommunikation ombord på fartyg 457.5125 - 457.5875"
+    },
+    {
+        "startfrekvens": "450",
+        "slutfrekvens": "452.5",
+        "användningsområde": "PMR 460 - 462.5"
+    },
+    {
+        "startfrekvens": "452.5",
+        "slutfrekvens": "457.5",
+        "användningsområde": "MFCN 462.5 - 467.5"
+    },
+    {
+        "startfrekvens": "457.5",
+        "slutfrekvens": "460",
+        "användningsområde": "PMR 467.5 - 470"
+    },
+    {
+        "startfrekvens": "457.5125",
+        "slutfrekvens": "457.5875",
+        "användningsområde": "Kommunikation ombord på fartyg 467.5125 - 467.5875"
+    },
+    {
+        "startfrekvens": "6",
+        "slutfrekvens": "182",
+        "användningsområde": "6 420 Fast radio 5930 - 6168"
+    },
+    {
+        "startfrekvens": "5",
+        "slutfrekvens": "930",
+        "användningsområde": "6 168 Fast radio 6182 - 6420"
+    },
+    {
+        "startfrekvens": "6",
+        "slutfrekvens": "770",
+        "användningsområde": "7 125 Fast radio 6425 - 6760"
+    },
+    {
+        "startfrekvens": "6",
+        "slutfrekvens": "425",
+        "användningsområde": "6 760 Fast radio 6770 - 7125"
+    },
+    {
+        "startfrekvens": "81",
+        "slutfrekvens": "000",
+        "användningsområde": "86 000 Fast radio 71000 - 76000"
+    },
+    {
+        "startfrekvens": "7",
+        "slutfrekvens": "581.1",
+        "användningsområde": "7 722 Fast radio 7427.1 - 7568"
+    },
+    {
+        "startfrekvens": "80.625",
+        "slutfrekvens": "82.475",
+        "användningsområde": "PMR 75.625 - 77.475"
+    },
+    {
+        "startfrekvens": "80.625",
+        "slutfrekvens": "82.475",
+        "användningsområde": "Landmobil radio 75.625 - 77.475"
+    },
+    {
+        "startfrekvens": "7",
+        "slutfrekvens": "427.1",
+        "användningsområde": "7 568 Fast radio 7581.1 - 7722"
+    },
+    {
+        "startfrekvens": "8",
+        "slutfrekvens": "210",
+        "användningsområde": "8 495 Fast radio 7900 - 8185"
+    },
+    {
+        "startfrekvens": "75.625",
+        "slutfrekvens": "77.475",
+        "användningsområde": "PMR 80.625 - 82.475"
+    },
+    {
+        "startfrekvens": "75.625",
+        "slutfrekvens": "77.475",
+        "användningsområde": "Landmobil radio 80.625 - 82.475"
+    },
+    {
+        "startfrekvens": "71",
+        "slutfrekvens": "000",
+        "användningsområde": "76 000 Fast radio 81000 - 86000"
+    },
+    {
+        "startfrekvens": "7",
+        "slutfrekvens": "900",
+        "användningsområde": "8 185 Fast radio 8210 - 8495"
+    },
+    {
+        "startfrekvens": "919.4",
+        "slutfrekvens": "925",
+        "användningsområde": "Mobil radio för järnväg (RMR) 874.4 - 880"
+    },
+    {
+        "startfrekvens": "925",
+        "slutfrekvens": "960",
+        "användningsområde": "MFCN 880 - 915"
+    },
+    {
+        "startfrekvens": "874.4",
+        "slutfrekvens": "880",
+        "användningsområde": "Mobil radio för järnväg (RMR) 919.4 - 925"
+    },
+    {
+        "startfrekvens": "880",
+        "slutfrekvens": "915",
+        "användningsområde": "MFCN 925 - 960"
+    }
+]

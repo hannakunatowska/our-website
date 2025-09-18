@@ -1,11 +1,12 @@
 
 /* --- Root --- */
 
-root{
-      --bg: #0f1724; --card: #0b1220; --muted: #9aa4b2; --accent: #5eead4;
-      --glass: rgba(255, 255, 255, 0.03);
-      font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-    } /* Sets root CSS variables for colors and font family */
+:root{
+  --bg: #0f1724; --card: #0b1220; --muted: #9aa4b2; --accent: #5eead4;
+  --glass: rgba(255, 255, 255, 0.03);
+  --label-bg: rgba(0, 0, 0, 0.45);
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+} /* Sets root CSS variables for colors and font family */
 
 *{box-sizing: border-box} /* Sets the box-sizing method to "border-box" for all elements (makes the total width include padding and border which makes sizing easier) */
 
