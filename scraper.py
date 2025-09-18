@@ -1,4 +1,5 @@
 import json
+import re
 
 def fix_swedish_chars(text):
     replacements = {
@@ -24,7 +25,6 @@ with open("data.txt", "r", encoding="utf-8", errors="replace") as file:
 
         # Replace spaces **inside numbers** (digits surrounded by spaces)
         # Example: "1 215" -> "1215"
-        import re
         line = re.sub(r'(\d) (\d)', r'\1\2', line)
 
         parts = line.split()
@@ -34,6 +34,9 @@ with open("data.txt", "r", encoding="utf-8", errors="replace") as file:
         startfrekvens = parts[0]
         slutfrekvens = parts[1]
         description = " ".join(parts[2:])
+        # remove dublex frequencies
+        description = re.split(r'\s\d', description, 1)[0].strip()
+
 
         row = {
             "startfrekvens": startfrekvens,
