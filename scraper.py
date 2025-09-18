@@ -1,5 +1,6 @@
 import json
 import re
+import os
 
 def fix_swedish_chars(text):
     replacements = {
@@ -48,5 +49,11 @@ with open("data.txt", "r", encoding="utf-8", errors="replace") as file:
 # sort by startfrekvens as float
 my_freq_list.sort(key=lambda x: float(x["startfrekvens"]))
 
-with open("frekvenser.json", "w", encoding="utf-8") as json_file:
+# make sure the "static" folder exists
+os.makedirs("static", exist_ok=True)
+
+# save inside static/
+output_path = os.path.join("static", "data.json")
+
+with open(output_path, "w", encoding="utf-8") as json_file:
     json.dump(my_freq_list, json_file, ensure_ascii=False, indent=4)
