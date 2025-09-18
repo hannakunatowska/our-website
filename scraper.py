@@ -45,5 +45,8 @@ with open("data.txt", "r", encoding="utf-8", errors="replace") as file:
         }
         my_freq_list.append(row)
 
+# sort by startfrekvens as float
+my_freq_list.sort(key=lambda x: float(x["startfrekvens"]))
+
 with open("frekvenser.json", "w", encoding="utf-8") as json_file:
     json.dump(my_freq_list, json_file, ensure_ascii=False, indent=4)
